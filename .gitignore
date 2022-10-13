@@ -14,3 +14,6 @@ patchouli_books/
 local/
 dumps/
 crash-reports/
+options.txt
+reauth.toml
+knownkeys.txt

@@ -2,17 +2,17 @@
 ["Tweak Garden World Generation Rates"]
 	#Chance of gardens generating in the world. Higher numbers indicate a lower probability; just 4 is very rare (Default: 2)
 	#Range: 1 ~ 1000000000
-	"Probability of gardens generating" = 5
+	"Probability of gardens generating" = 2
 
 ["Tweak Garden Cluster Rates"]
 	#Chance of gardens generating in the world. Higher numbers indicate a lower probability; just 4 is very rare (Default: 2)
 	#Range: 1 ~ 1000000000
-	"Probability of gardens generating" = 5
+	"Probability of gardens generating" = 2
 
 ["Tweak Garden Cluster Sizes"]
 	#Amount of gardens that spawn together. Higher numbers indicate larger clusters; 32 is about 3-7ish (Default: 32)
 	#Range: 1 ~ 1000000000
-	"Probability of gardens generating" = 16
+	"Probability of gardens generating" = 32
 
 ["Miscellaneous Features"]
 	#Disable/enable right-click harvesting of crops.
@@ -26,17 +26,17 @@
 
 ["Enable/Disable Garden World Generation"]
 	#Should arid gardens should generate in world
-	"Generate arid gardens" = false
+	"Generate arid gardens" = true
 	#Should frost gardens should generate in world
-	"Generate frost gardens" = false
+	"Generate frost gardens" = true
 	#Should tropical gardens should generate in world
-	"Generate tropical gardens" = false
+	"Generate tropical gardens" = true
 	#Should windy gardens should generate in world
-	"Generate windy gardens" = false
+	"Generate windy gardens" = true
 	#Should shaded gardens should generate in world
-	"Generate shaded gardens" = false
+	"Generate shaded gardens" = true
 	#Should soggy gardens should generate in world
-	"Generate soggy gardens" = false
+	"Generate soggy gardens" = true
 
 ["Right-click Harvesting Settings"]
 	#Disable/enable right-click harvesting of crops

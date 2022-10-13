@@ -1,0 +1,7 @@
+type = last_world
+
+last_world {
+  is_server = false
+  world = C:/Users/Eric Witzel/curseforge/minecraft/Instances/Beneath The Trees [FORGE]/saves/New World
+}
+

@@ -8,7 +8,7 @@
 		# Whether or not dungeons should be allowed to place skeleton skulls and other mob heads.
 		# This option may be useful for some modpack creators.
 		# Default: true
-		"Enable Skulls & Heads" = false
+		"Enable Skulls & Heads" = true
 		# Whether or not vanilla dungeons should be prevented from spawning in the world.
 		# It is recommended to disable these, since the Small Dungeons are very similar in design.
 		# Default: true
@@ -18,7 +18,7 @@
 		# Set this to false to prevent any Nether-related blocks from spawning in dungeons.
 		# This option may be useful for some modpack creators.
 		# Default: true
-		"Enable Nether Blocks in Dungeons" = false
+		"Enable Nether Blocks in Dungeons" = true
 
 	###########################################################################################################
 	## Spider Dungeon settings.

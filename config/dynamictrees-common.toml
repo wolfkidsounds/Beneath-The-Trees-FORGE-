@@ -2,9 +2,16 @@
 #Vanilla Trees Settings
 [vanilla]
 	#Right clicking with a vanilla sapling places a dynamic sapling instead.
-	replaceVanillaSapling = true
+	replaceVanillaSapling = false
 	#Crimson Fungus and Warped Fungus that sprout from nylium will be dynamic instead.
 	replaceNyliumFungi = true
+	#If enabled, cancels the non-dynamic trees that spawn with vanilla villages.
+	cancelVanillaVillageTrees = true
+
+#Miscellaneous Settings
+[misc]
+	#If enabled, dirt bucket recipes will be automatically generated.
+	generateDirtBucketRecipes = true
 
 #World Generation Settings
 [world]
@@ -23,9 +30,4 @@
 	enableSeasonalGrowthFactor = true
 	#If enabled, fruit production rates will be multiplied based on the current season (requires serene seasons).
 	enableSeasonalFruitProductionFactor = true
-
-#Miscellaneous Settings
-[misc]
-	#If enabled, dirt bucket recipes will be automatically generated.
-	generateDirtBucketRecipes = true
 

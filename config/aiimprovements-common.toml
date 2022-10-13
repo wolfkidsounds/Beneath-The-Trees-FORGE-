@@ -55,7 +55,7 @@
 	#Squid Fish
 	[entity.squid]
 		#Remove the squid's flee pathfinder. This will cause squid to not run away.
-		remove_flee = true
+		remove_flee = false
 		#Remove the squid's random movement pathfinder. This will cause squid to swim around randomly.
 		remove_random_move = false
 
