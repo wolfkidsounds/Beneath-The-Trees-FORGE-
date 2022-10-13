@@ -20,7 +20,7 @@
 		moreGrassInRivers = true
 
 		[Settings."World Gen".Groundcover]
-			rocks = true
+			rocks = false
 			twigs = true
 			fallenLeaves = false
 			bones = false
