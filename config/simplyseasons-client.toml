@@ -1,8 +1,8 @@
 
 [Information]
-	"Enable season HUD" = false
+	"Enable season HUD" = true
 	"Enable crops season tooltip" = true
-	"Show wet/dry tooltip" = false
+	"Show wet/dry tooltip" = true
 	"Enable seasonal music" = false
 	"Display season in debug menu" = true
 	#This config option requires Enable season HUD to be true. If it is false it will not work.
