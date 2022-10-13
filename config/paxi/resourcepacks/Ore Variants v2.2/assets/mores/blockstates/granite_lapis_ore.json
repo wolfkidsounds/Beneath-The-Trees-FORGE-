@@ -1,0 +1,18 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "mores:block/granite_lapis_ore"
+      },
+      {
+        "model": "mores:block/granite_lapis_ore1"
+      },
+      {
+        "model": "mores:block/granite_lapis_ore2"
+      },
+      {
+        "model": "mores:block/granite_lapis_ore3"
+      }
+    ]
+  }
+}

@@ -1,0 +1,10 @@
+{
+	id: "3AC99997005AEE5C"
+	group: "47446AA458B700FB"
+	order_index: 5
+	filename: "simple_storage_network"
+	title: "Simple Storage Network"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [ ]
+}

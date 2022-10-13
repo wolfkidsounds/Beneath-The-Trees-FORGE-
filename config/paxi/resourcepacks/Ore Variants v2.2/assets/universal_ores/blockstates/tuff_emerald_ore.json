@@ -1,0 +1,21 @@
+{
+	"variants": {
+		"": [
+		{
+			"model": "universal_ores:block/tuff_emerald_ore"
+		},
+		{
+			"model": "universal_ores:block/tuff_emerald_ore1"
+		},
+		{
+			"model": "universal_ores:block/tuff_emerald_ore2"
+		},
+		{
+			"model": "universal_ores:block/tuff_emerald_ore3"
+		},
+		{
+			"model": "universal_ores:block/tuff_emerald_ore4"
+		}
+		]
+	}
+}

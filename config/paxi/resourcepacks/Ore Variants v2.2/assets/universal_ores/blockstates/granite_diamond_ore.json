@@ -1,0 +1,18 @@
+{
+	"variants": {
+		"": [
+		{
+			"model": "universal_ores:block/granite_diamond_ore"
+		},
+		{
+			"model": "universal_ores:block/granite_diamond_ore1"
+		},
+		{
+			"model": "universal_ores:block/granite_diamond_ore2"
+		},
+		{
+			"model": "universal_ores:block/granite_diamond_ore3"
+		}
+		]
+	}
+}

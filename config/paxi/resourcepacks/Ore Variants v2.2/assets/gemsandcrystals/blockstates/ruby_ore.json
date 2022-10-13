@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "": [
+    {
+      "model": "gemsandcrystals:block/ruby_ore"
+    },
+    {
+      "model": "gemsandcrystals:block/ruby_ore1"
+    },
+    {
+      "model": "gemsandcrystals:block/ruby_ore2"
+    },
+    {
+      "model": "gemsandcrystals:block/ruby_ore3"
+    },
+    {
+      "model": "gemsandcrystals:block/ruby_ore4"
+    }
+  ]
+  }
+}

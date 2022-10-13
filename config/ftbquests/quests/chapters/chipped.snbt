@@ -1,0 +1,82 @@
+{
+	id: "24B993B6A6223D35"
+	group: "47446AA458B700FB"
+	order_index: 1
+	filename: "chipped"
+	title: "Chipped"
+	icon: "chipped:glassblower"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			x: 6.5d
+			y: 0.5d
+			id: "7AFB9F952AB2B820"
+			tasks: [{
+				id: "742E4F01F0FF85CE"
+				type: "item"
+				item: "chipped:botanist_workbench"
+			}]
+		}
+		{
+			x: -2.5d
+			y: 0.5d
+			id: "7D7F1DBB2DB1F63D"
+			tasks: [{
+				id: "5B8C7810ED1AE4B4"
+				type: "item"
+				item: "chipped:glassblower"
+			}]
+		}
+		{
+			x: -1.0d
+			y: 0.5d
+			id: "0259DDA8BF63F68A"
+			tasks: [{
+				id: "5F59B95C513B869C"
+				type: "item"
+				item: "chipped:carpenters_table"
+			}]
+		}
+		{
+			x: 0.5d
+			y: 0.5d
+			id: "71EBC55312B3240B"
+			tasks: [{
+				id: "520797FCBF1CDD75"
+				type: "item"
+				item: "chipped:loom_table"
+			}]
+		}
+		{
+			x: 2.0d
+			y: 0.5d
+			id: "147431046A93820F"
+			tasks: [{
+				id: "6E32F97033EE0280"
+				type: "item"
+				item: "chipped:mason_table"
+			}]
+		}
+		{
+			x: 5.0d
+			y: 0.5d
+			id: "321D5AB7167559DA"
+			tasks: [{
+				id: "0F64982E3FD90445"
+				type: "item"
+				item: "chipped:alchemy_bench"
+			}]
+		}
+		{
+			x: 3.5d
+			y: 0.5d
+			id: "4E14BE155E21F22A"
+			tasks: [{
+				id: "09ABDF15FE297EE1"
+				type: "item"
+				item: "chipped:mechanist_workbench"
+			}]
+		}
+	]
+}

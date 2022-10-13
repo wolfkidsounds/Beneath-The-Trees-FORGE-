@@ -1,0 +1,10 @@
+{
+	id: "05B6422632DA0906"
+	group: "06BAED445159E01B"
+	order_index: 0
+	filename: "minecraft"
+	title: "Minecraft"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [ ]
+}

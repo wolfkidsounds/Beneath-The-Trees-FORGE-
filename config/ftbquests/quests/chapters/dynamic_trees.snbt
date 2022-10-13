@@ -1,0 +1,102 @@
+{
+	id: "754274CCC82EB798"
+	group: "6C6F16E3D6C37D19"
+	order_index: 1
+	filename: "dynamic_trees"
+	title: "Dynamic Trees"
+	icon: "dynamictrees:oak_seed"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			x: 0.0d
+			y: 0.0d
+			id: "476BFAAD0D85572D"
+			tasks: [{
+				id: "50C14FFA6D7E9C99"
+				type: "item"
+				item: "dynamictrees:oak_seed"
+			}]
+		}
+		{
+			x: 3.0d
+			y: 0.0d
+			id: "1F3A3CD6097F8330"
+			tasks: [{
+				id: "233E71B8027E9528"
+				type: "item"
+				item: "dynamictrees:spruce_seed"
+			}]
+		}
+		{
+			x: 7.5d
+			y: 0.0d
+			id: "77F2C08A0F91210D"
+			tasks: [{
+				id: "216E588EF18F1BC4"
+				type: "item"
+				item: "dynamictrees:jungle_seed"
+			}]
+		}
+		{
+			x: 0.0d
+			y: 1.5d
+			id: "657C3F9D30BBC941"
+			tasks: [{
+				id: "540C04030A137D5C"
+				type: "item"
+				item: "dynamictrees:crimson_seed"
+			}]
+		}
+		{
+			x: 4.5d
+			y: 0.0d
+			id: "29AECF56519DC770"
+			tasks: [{
+				id: "415E966A65F30350"
+				type: "item"
+				item: "dynamictrees:birch_seed"
+			}]
+		}
+		{
+			x: 6.0d
+			y: 0.0d
+			id: "36D99699F50D769F"
+			tasks: [{
+				id: "5803AD9DF3307EBD"
+				type: "item"
+				item: "dynamictrees:acacia_seed"
+			}]
+		}
+		{
+			x: 1.5d
+			y: 0.0d
+			id: "5E76BCF693A84A54"
+			tasks: [{
+				id: "082B0CA3597B0EAA"
+				type: "item"
+				item: "dynamictrees:dark_oak_seed"
+			}]
+		}
+		{
+			x: 9.0d
+			y: 0.0d
+			id: "593AECEE7A7017E9"
+			tasks: [{
+				id: "6A472179CF39AC4E"
+				type: "item"
+				item: "dynamictrees:apple_oak_seed"
+			}]
+		}
+		{
+			x: 1.5d
+			y: 1.5d
+			id: "54A418DA43CFFB2E"
+			tasks: [{
+				id: "7277076D9E1F010B"
+				type: "item"
+				item: "dynamictrees:warped_seed"
+			}]
+		}
+	]
+}

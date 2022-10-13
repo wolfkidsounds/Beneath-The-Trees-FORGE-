@@ -1,0 +1,292 @@
+{
+	id: "4133F157155BECAA"
+	group: "47446AA458B700FB"
+	order_index: 3
+	filename: "geolosys"
+	title: "Geolosys"
+	icon: "geolosys:iron_cluster"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			x: 0.0d
+			y: 0.0d
+			id: "57CDB4AEF8341C39"
+			tasks: [{
+				id: "24CAE5D42E4B54CD"
+				type: "observation"
+				title: "Lignite Coal"
+				icon: "geolosys:lignite_ore"
+				timer: 0L
+				observe_type: 0
+				to_observe: "geolosys:lignite_ore"
+			}]
+		}
+		{
+			x: 1.5d
+			y: 0.0d
+			id: "3AA739C5F5398CB4"
+			tasks: [{
+				id: "7F79373E999744A6"
+				type: "observation"
+				title: "Bituminous"
+				icon: "geolosys:bituminous_coal_ore"
+				timer: 0L
+				observe_type: 0
+				to_observe: "geolosys:bituminous_coal_ore"
+			}]
+		}
+		{
+			x: 3.0d
+			y: 0.0d
+			id: "0E18122B4AD6A30D"
+			tasks: [{
+				id: "7FBCC995709F2BE9"
+				type: "observation"
+				title: "Anthracite Coal"
+				icon: "geolosys:anthracite_coal_ore"
+				timer: 0L
+				observe_type: 0
+				to_observe: "geolosys:anthracite_coal_ore"
+			}]
+		}
+		{
+			x: 4.5d
+			y: 0.0d
+			id: "07C72CE4D56EAA12"
+			tasks: [{
+				id: "5B5AAE8CAB44B40A"
+				type: "observation"
+				title: "Coal"
+				icon: "geolosys:coal_ore"
+				timer: 0L
+				observe_type: 0
+				to_observe: "geolosys:coal_ore"
+			}]
+		}
+		{
+			x: 0.0d
+			y: 1.5d
+			id: "5F3F8DB53AF0BBBE"
+			tasks: [{
+				id: "12AE853236E8364A"
+				type: "observation"
+				title: "Cinnabar"
+				icon: "geolosys:cinnabar_ore"
+				timer: 0L
+				observe_type: 0
+				to_observe: "geolosys:cinnabar_ore"
+			}]
+		}
+		{
+			x: 1.5d
+			y: 1.5d
+			id: "3F1CD81F571DCDEE"
+			tasks: [{
+				id: "7514D00F2E0F2A8A"
+				type: "observation"
+				title: "Gold"
+				icon: "geolosys:gold_ore"
+				timer: 0L
+				observe_type: 0
+				to_observe: "geolosys:gold_ore"
+			}]
+		}
+		{
+			x: 3.0d
+			y: 1.5d
+			id: "7E4D19BFFCC1C9AD"
+			tasks: [{
+				id: "76DB20EB707405AB"
+				type: "observation"
+				title: "Lapis Lazuli"
+				icon: "geolosys:lapis_ore"
+				timer: 0L
+				observe_type: 0
+				to_observe: "geolosys:lapis_ore"
+			}]
+		}
+		{
+			x: 4.5d
+			y: 1.5d
+			id: "76FF6AFA4CBB2DCF"
+			tasks: [{
+				id: "148E3141488DBC4A"
+				type: "observation"
+				title: "Assorted Quartz"
+				icon: "geolosys:quartz_ore"
+				timer: 0L
+				observe_type: 0
+				to_observe: "geolosys:quartz_ore"
+			}]
+		}
+		{
+			x: 6.0d
+			y: 1.5d
+			id: "414A7FCC94298856"
+			tasks: [{
+				id: "67805AEA22BE9C58"
+				type: "observation"
+				title: "Kimberlite"
+				icon: "geolosys:kimberlite_ore"
+				timer: 0L
+				observe_type: 0
+				to_observe: "geolosys:kimberlite_ore"
+			}]
+		}
+		{
+			x: 7.5d
+			y: 1.5d
+			id: "30109A66AB6F75CB"
+			tasks: [{
+				id: "02D2D8FD05868CDC"
+				type: "observation"
+				title: "Beryl"
+				icon: "geolosys:beryl_ore"
+				timer: 0L
+				observe_type: 0
+				to_observe: "geolosys:beryl_ore"
+			}]
+		}
+		{
+			x: 9.0d
+			y: 1.5d
+			id: "70564A1980878D30"
+			tasks: [{
+				id: "645F8534C63CF947"
+				type: "observation"
+				title: "Hematite"
+				icon: "geolosys:hematite_ore"
+				timer: 0L
+				observe_type: 0
+				to_observe: "geolosys:hematite_ore"
+			}]
+		}
+		{
+			x: 10.5d
+			y: 1.5d
+			id: "12874766B3A2A594"
+			tasks: [{
+				id: "0AFFD21A60C8D8A3"
+				type: "observation"
+				title: "Limonite"
+				icon: "geolosys:limonite_ore"
+				timer: 0L
+				observe_type: 0
+				to_observe: "geolosys:limonite_ore"
+			}]
+		}
+		{
+			x: 12.0d
+			y: 1.5d
+			id: "58CE9BDD5DEA64B1"
+			tasks: [{
+				id: "013784DE0C20657F"
+				type: "observation"
+				title: "Malachite"
+				icon: "geolosys:malachite_ore"
+				timer: 0L
+				observe_type: 0
+				to_observe: "geolosys:malachite_ore"
+			}]
+		}
+		{
+			x: 13.5d
+			y: 1.5d
+			id: "1B650DCCFC7DA8E1"
+			tasks: [{
+				id: "3E32644818D24489"
+				type: "observation"
+				title: "Azurite"
+				icon: "geolosys:azurite_ore"
+				timer: 0L
+				observe_type: 0
+				to_observe: "geolosys:azurite_ore"
+			}]
+		}
+		{
+			x: 15.0d
+			y: 1.5d
+			id: "4F1B65D9D5C80D5C"
+			tasks: [{
+				id: "1BA2F78BC2F49BFA"
+				type: "observation"
+				title: "Cassiterite"
+				icon: "geolosys:cassiterite_ore"
+				timer: 0L
+				observe_type: 0
+				to_observe: "geolosys:cassiterite_ore"
+			}]
+		}
+		{
+			x: 16.5d
+			y: 1.5d
+			id: "4401C544B4EC2C5A"
+			tasks: [{
+				id: "14D80C5059C68006"
+				type: "observation"
+				title: "Teallite"
+				icon: "geolosys:teallite_ore"
+				timer: 0L
+				observe_type: 0
+				to_observe: "geolosys:teallite_ore"
+			}]
+		}
+		{
+			x: 18.0d
+			y: 1.5d
+			id: "67E44B5FE94F0047"
+			tasks: [{
+				id: "213E0AD8C6E9E357"
+				type: "observation"
+				title: "Galena"
+				icon: "geolosys:galena_ore"
+				timer: 0L
+				observe_type: 0
+				to_observe: "geolosys:galena_ore"
+			}]
+		}
+		{
+			x: 19.5d
+			y: 1.5d
+			id: "2FC37CDFEA86230E"
+			tasks: [{
+				id: "44EBCA52169FD43C"
+				type: "observation"
+				title: "Bauxite"
+				icon: "geolosys:bauxite_ore"
+				timer: 0L
+				observe_type: 0
+				to_observe: "geolosys:bauxite_ore"
+			}]
+		}
+		{
+			x: 21.0d
+			y: 1.5d
+			id: "193B8D339C78F8E9"
+			tasks: [{
+				id: "072B436C6B2E82EE"
+				type: "observation"
+				title: "Autunite"
+				icon: "geolosys:autunite_ore"
+				timer: 0L
+				observe_type: 0
+				to_observe: "geolosys:autunite_ore"
+			}]
+		}
+		{
+			x: 22.5d
+			y: 1.5d
+			id: "5D8AAB67BB5C4B9F"
+			tasks: [{
+				id: "750B04907EB16C98"
+				type: "observation"
+				title: "Sphalerite"
+				icon: "geolosys:sphalerite_ore"
+				timer: 0L
+				observe_type: 0
+				to_observe: "geolosys:sphalerite_ore"
+			}]
+		}
+	]
+}

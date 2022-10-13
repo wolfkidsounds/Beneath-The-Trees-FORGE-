@@ -1,0 +1,8 @@
+{
+	"type": "minecraft:smelting",
+	"ingredient": {"tag": "forge:groundmeats/groundmutton"},
+	"result": "pamhc2foodextended:cookedgroundmuttonitem",
+	"experience": 0.35,
+	"cookingtime": 200
+
+}

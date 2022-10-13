@@ -1,0 +1,10 @@
+{
+	id: "0717D8243413BCA4"
+	group: "06BAED445159E01B"
+	order_index: 4
+	filename: "alex_mobs"
+	title: "Alex's Mobs"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [ ]
+}

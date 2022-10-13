@@ -1,0 +1,15 @@
+{
+  "variants": {
+    "": [
+	{
+      "model": "cinderscapes:block/smoky_quartz_ore"
+    },
+	{
+      "model": "cinderscapes:block/smoky_quartz_ore1"
+    },
+	{
+      "model": "cinderscapes:block/smoky_quartz_ore2"
+    }
+	]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "": [
+	{
+      "model": "cavesandcliffs:block/deepslate_copper_ore"
+    },
+	{
+      "model": "cavesandcliffs:block/deepslate_copper_ore1"
+    },
+	{
+      "model": "cavesandcliffs:block/deepslate_copper_ore2"
+    },
+	{
+      "model": "cavesandcliffs:block/deepslate_copper_ore3"
+    },
+	{
+      "model": "cavesandcliffs:block/deepslate_copper_ore4"
+    }
+	]
+  }
+}

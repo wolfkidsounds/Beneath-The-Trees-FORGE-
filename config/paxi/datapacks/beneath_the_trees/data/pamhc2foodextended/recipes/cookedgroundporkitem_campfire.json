@@ -1,0 +1,8 @@
+{
+	"type": "minecraft:campfire_cooking",
+	"ingredient": {"tag": "forge:groundmeats/groundpork"},
+	"result": "pamhc2foodextended:cookedgroundporkitem",
+	"experience": 0.35,
+	"cookingtime": 600
+
+}

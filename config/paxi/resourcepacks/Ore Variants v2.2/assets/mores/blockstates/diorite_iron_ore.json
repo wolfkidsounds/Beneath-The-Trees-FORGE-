@@ -1,0 +1,18 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "mores:block/diorite_iron_ore"
+      },
+      {
+        "model": "mores:block/diorite_iron_ore1"
+      },
+      {
+        "model": "mores:block/diorite_iron_ore2"
+      },
+      {
+        "model": "mores:block/diorite_iron_ore3"
+      }
+    ]
+  }
+}

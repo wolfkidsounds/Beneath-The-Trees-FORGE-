@@ -1,0 +1,24 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_pot"
+    },
+	{	
+      "tag": "forge:crops/tealeaf"
+    },
+	{	
+      "tag": "forge:crops/orange"
+    },
+	{	
+      "tag": "forge:tool_grinder"
+    }
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:earlgreyteaitem",
+	"count": 1}
+	
+}

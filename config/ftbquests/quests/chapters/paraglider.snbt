@@ -1,0 +1,87 @@
+{
+	id: "0D657C9115F765D5"
+	group: "06BAED445159E01B"
+	order_index: 8
+	filename: "paraglider"
+	title: "Paraglider"
+	icon: "paraglider:paraglider"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			x: 0.0d
+			y: 0.0d
+			id: "2BB7805A6EF58B13"
+			tasks: [{
+				id: "4272F0B3F1B313A4"
+				type: "item"
+				item: "paraglider:paraglider"
+			}]
+		}
+		{
+			icon: "paraglider:goddess_statue"
+			x: 0.0d
+			y: 1.5d
+			id: "1A64BF5486C8250D"
+			tasks: [{
+				id: "279103C863F5BCDC"
+				type: "observation"
+				timer: 0L
+				observe_type: 0
+				to_observe: "paraglider:goddess_statue"
+			}]
+		}
+		{
+			x: 1.5d
+			y: 1.5d
+			id: "7D60F68B011CEA3E"
+			tasks: [{
+				id: "43AD7F0707180CE9"
+				type: "observation"
+				icon: "paraglider:kakariko_goddess_statue"
+				timer: 0L
+				observe_type: 0
+				to_observe: "paraglider:kakariko_goddess_statue"
+			}]
+		}
+		{
+			x: 3.0d
+			y: 1.5d
+			id: "16B47AF7E8F6ADAD"
+			tasks: [{
+				id: "7F2BB27DB509FE88"
+				type: "observation"
+				icon: "paraglider:goron_goddess_statue"
+				timer: 0L
+				observe_type: 0
+				to_observe: "paraglider:goron_goddess_statue"
+			}]
+		}
+		{
+			x: 4.5d
+			y: 1.5d
+			id: "6F89B2DB5989275E"
+			tasks: [{
+				id: "4943F8E836617DBF"
+				type: "observation"
+				icon: "paraglider:rito_goddess_statue"
+				timer: 0L
+				observe_type: 0
+				to_observe: "paraglider:rito_goddess_statue"
+			}]
+		}
+		{
+			x: 6.0d
+			y: 1.5d
+			id: "27A951C9D184F595"
+			tasks: [{
+				id: "04F7E2A687FF83EE"
+				type: "observation"
+				icon: "paraglider:horned_statue"
+				timer: 0L
+				observe_type: 0
+				to_observe: "paraglider:horned_statue"
+			}]
+		}
+	]
+}

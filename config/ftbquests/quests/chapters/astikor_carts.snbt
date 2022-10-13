@@ -1,0 +1,52 @@
+{
+	id: "7A845127B8DF5CE9"
+	group: "06BAED445159E01B"
+	order_index: 5
+	filename: "astikor_carts"
+	title: "Astikor Carts"
+	icon: "astikorcarts:wheel"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			x: 0.0d
+			y: 0.0d
+			id: "5148D9052D2F9A54"
+			tasks: [{
+				id: "4E3D806CAA551FB6"
+				type: "item"
+				item: "astikorcarts:supply_cart"
+			}]
+		}
+		{
+			x: 1.5d
+			y: 0.0d
+			id: "686E204BA9D028EA"
+			tasks: [{
+				id: "6832A99703A52E78"
+				type: "item"
+				item: "astikorcarts:plow"
+			}]
+		}
+		{
+			x: 3.0d
+			y: 0.0d
+			id: "46368D6B8F076B91"
+			tasks: [{
+				id: "5F7AD58150B8D3C8"
+				type: "item"
+				item: "astikorcarts:animal_cart"
+			}]
+		}
+		{
+			x: 1.5d
+			y: -1.5d
+			id: "5159C31FA234A59A"
+			tasks: [{
+				id: "2F92357594A1FAC6"
+				type: "item"
+				item: "astikorcarts:wheel"
+			}]
+		}
+	]
+}

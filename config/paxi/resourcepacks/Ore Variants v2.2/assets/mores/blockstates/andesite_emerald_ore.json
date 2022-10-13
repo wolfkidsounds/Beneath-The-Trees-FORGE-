@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "mores:block/andesite_emerald_ore"
+      },
+      {
+        "model": "mores:block/andesite_emerald_ore1"
+      },
+      {
+        "model": "mores:block/andesite_emerald_ore2"
+      },
+      {
+        "model": "mores:block/andesite_emerald_ore3"
+      },
+      {
+        "model": "mores:block/andesite_emerald_ore4"
+      }
+    ]
+  }
+}

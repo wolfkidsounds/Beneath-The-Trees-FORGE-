@@ -1,0 +1,15 @@
+{
+  "variants": {
+    "": [
+	{
+      "model": "cinderscapes:block/sulfur_ore"
+    },
+	{
+      "model": "cinderscapes:block/sulfur_ore1"
+    },
+	{
+      "model": "cinderscapes:block/sulfur_ore2"
+    }
+	]
+  }
+}

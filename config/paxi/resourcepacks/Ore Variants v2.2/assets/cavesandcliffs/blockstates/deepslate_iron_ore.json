@@ -1,0 +1,18 @@
+{
+  "variants": {
+    "": [
+	{
+      "model": "cavesandcliffs:block/deepslate_iron_ore"
+    },
+	{
+      "model": "cavesandcliffs:block/deepslate_iron_ore1"
+    },
+	{
+      "model": "cavesandcliffs:block/deepslate_iron_ore2"
+    },
+	{
+      "model": "cavesandcliffs:block/deepslate_iron_ore3"
+    }
+	]
+  }
+}

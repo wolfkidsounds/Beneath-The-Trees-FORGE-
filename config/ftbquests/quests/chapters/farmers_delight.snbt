@@ -1,0 +1,78 @@
+{
+	id: "04C2FB1A02BA0172"
+	group: "6C6F16E3D6C37D19"
+	order_index: 2
+	filename: "farmers_delight"
+	title: "Farmers Delight"
+	icon: "farmersdelight:cooking_pot"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			x: -5.5d
+			y: -2.0d
+			id: "51BB03B0C4D3A22A"
+			tasks: [{
+				id: "2A2B61D0921AD949"
+				type: "item"
+				item: "farmersdelight:stove"
+			}]
+		}
+		{
+			x: -4.0d
+			y: -2.0d
+			id: "013796AC32687EC5"
+			tasks: [{
+				id: "1DAC300E5AEE39B7"
+				type: "item"
+				item: "farmersdelight:cooking_pot"
+			}]
+		}
+		{
+			x: -2.5d
+			y: -2.0d
+			id: "3D7477D2ED23EFA7"
+			tasks: [{
+				id: "1F5B0454480700E7"
+				type: "item"
+				item: "farmersdelight:cutting_board"
+			}]
+		}
+		{
+			x: -1.0d
+			y: -2.0d
+			id: "03552393D6A1A8D7"
+			tasks: [{
+				id: "442DB3433AEFDF66"
+				type: "item"
+				item: "copperpot:copper_pot_block"
+			}]
+		}
+		{
+			x: 0.5d
+			y: -2.0d
+			id: "04739ACA118B1B8A"
+			tasks: [{
+				id: "0DA56E040DEE3D6C"
+				type: "item"
+				item: "farmersrespite:kettle"
+			}]
+		}
+		{
+			x: 2.0d
+			y: -2.0d
+			id: "0ADB762C12A8F680"
+			tasks: [{
+				id: "0CAA0753D29A9A53"
+				type: "item"
+				item: {
+					id: "farmersdelight:skillet"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+	]
+}

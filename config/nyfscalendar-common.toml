@@ -1,0 +1,12 @@
+#What Month do you want your World to Start in?
+#Range: 1 ~ 12
+startMonth = 1
+#What day of the Mont does your Server Start on?(Make sure it is a Valid day for  your Month)
+#Range: 1 ~ 31
+startDay = 1
+#What Year do you want your World to Start in?
+#Range: 1990 ~ 2021
+startYear = 2012
+#Does this mod Control Serene Seasons?
+doSS = true
+

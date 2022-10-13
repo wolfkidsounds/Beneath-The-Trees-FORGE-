@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "mores:block/andesite_coal_ore"
+      },
+      {
+        "model": "mores:block/andesite_coal_ore1"
+      },
+      {
+        "model": "mores:block/andesite_coal_ore2"
+      },
+      {
+        "model": "mores:block/andesite_coal_ore3"
+      },
+      {
+        "model": "mores:block/andesite_coal_ore4"
+      }
+    ]
+  }
+}

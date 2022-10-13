@@ -1,0 +1,45 @@
+{
+	id: "4C118207EB4A2882"
+	group: "6C6F16E3D6C37D19"
+	order_index: 0
+	filename: "vibrant_journeys"
+	title: "Vibrant Journeys"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			x: 0.0d
+			y: 0.0d
+			id: "5F7A3F227AA59A98"
+			tasks: [{
+				id: "47F32E13BAA9FFF3"
+				type: "observation"
+				title: "Twigs"
+				icon: "projectvibrantjourneys:twigs"
+				timer: 0L
+				observe_type: 0
+				to_observe: "projectvibrantjourneys:twigs"
+			}]
+		}
+		{
+			x: 1.5d
+			y: 0.0d
+			id: "51251E2B217764F6"
+			tasks: [{
+				id: "61B9B8AD0019BDEB"
+				type: "item"
+				item: "projectvibrantjourneys:rocks"
+			}]
+		}
+		{
+			x: 3.0d
+			y: 0.0d
+			id: "4E5D150742A8762F"
+			tasks: [{
+				id: "6F32BF3BD96AFE04"
+				type: "item"
+				item: "projectvibrantjourneys:mossy_rocks"
+			}]
+		}
+	]
+}

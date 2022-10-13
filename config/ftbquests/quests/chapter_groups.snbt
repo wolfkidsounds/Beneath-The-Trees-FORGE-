@@ -1,0 +1,7 @@
+{
+	chapter_groups: [
+		{ id: "06BAED445159E01B", title: "Exploration" }
+		{ id: "6C6F16E3D6C37D19", title: "The Adventure" }
+		{ id: "47446AA458B700FB", title: "Engineering" }
+	]
+}

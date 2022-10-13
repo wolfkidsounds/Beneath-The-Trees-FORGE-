@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "shretnether:block/soul_sand_fossil1"
+  }
+}

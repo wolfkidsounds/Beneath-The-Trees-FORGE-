@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "": [
+    {
+      "model": "gemsandcrystals:block/deepslate_topaz_ore"
+    },
+    {
+      "model": "gemsandcrystals:block/deepslate_topaz_ore1"
+    },
+    {
+      "model": "gemsandcrystals:block/deepslate_topaz_ore2"
+    },
+    {
+      "model": "gemsandcrystals:block/deepslate_topaz_ore3"
+    },
+    {
+      "model": "gemsandcrystals:block/deepslate_topaz_ore4"
+    }
+  ]
+  }
+}

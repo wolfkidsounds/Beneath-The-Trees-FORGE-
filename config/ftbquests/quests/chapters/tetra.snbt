@@ -1,0 +1,87 @@
+{
+	id: "3E19DAEE46C6155D"
+	group: "47446AA458B700FB"
+	order_index: 0
+	filename: "tetra"
+	title: "Tetra"
+	icon: {
+		id: "tetra:modular_double"
+		Count: 1b
+		tag: {
+			"double/handle": "double/basic_handle"
+			"double/head_left": "double/basic_hammer_left"
+			"double/head_right": "double/basic_hammer_right"
+			id: "c76d95b2-cfca-4d85-9b52-c4e419251b3f"
+			"double/basic_hammer_right_material": "basic_hammer/oak"
+			Damage: 0
+			"double/basic_handle_material": "basic_handle/stick"
+			"double/basic_hammer_left_material": "basic_hammer/oak"
+		}
+	}
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			x: -3.0d
+			y: -0.5d
+			id: "331E3CD79F6AB3E3"
+			tasks: [{
+				id: "29B890F888B65CDE"
+				type: "item"
+				item: {
+					id: "tetra:modular_double"
+					Count: 1b
+					tag: {
+						"double/handle": "double/basic_handle"
+						"double/head_left": "double/basic_hammer_left"
+						"double/head_right": "double/basic_hammer_right"
+						id: "c76d95b2-cfca-4d85-9b52-c4e419251b3f"
+						"double/basic_hammer_right_material": "basic_hammer/oak"
+						Damage: 0
+						"double/basic_handle_material": "basic_handle/stick"
+						"double/basic_hammer_left_material": "basic_hammer/oak"
+					}
+				}
+			}]
+		}
+		{
+			x: 0.0d
+			y: -0.5d
+			id: "660EBFD68C153037"
+			tasks: [{
+				id: "0C5F592EE0B73E78"
+				type: "item"
+				item: "tetra:geode"
+			}]
+		}
+		{
+			x: 1.5d
+			y: -0.5d
+			id: "0036A9A4FBBE6537"
+			tasks: [{
+				id: "69331E644A7A59D1"
+				type: "item"
+				item: {
+					id: "tetra:modular_toolbelt"
+					Count: 1b
+					tag: {
+						"toolbelt/belt_material": "belt/rope"
+						"toolbelt/belt": "toolbelt/belt"
+						"toolbelt/slot1": "toolbelt/strap_slot1"
+						"toolbelt/strap_slot1_material": "strap1/leather"
+					}
+				}
+			}]
+		}
+		{
+			x: -1.5d
+			y: -0.5d
+			id: "10244FCE856EEEF5"
+			tasks: [{
+				id: "2CDD73E8456A9919"
+				type: "item"
+				item: "tetra:basic_workbench"
+			}]
+		}
+	]
+}

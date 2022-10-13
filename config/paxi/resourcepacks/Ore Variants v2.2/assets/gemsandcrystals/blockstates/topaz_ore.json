@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "": [
+    {
+      "model": "gemsandcrystals:block/topaz_ore"
+    },
+    {
+      "model": "gemsandcrystals:block/topaz_ore1"
+    },
+    {
+      "model": "gemsandcrystals:block/topaz_ore2"
+    },
+    {
+      "model": "gemsandcrystals:block/topaz_ore3"
+    },
+    {
+      "model": "gemsandcrystals:block/topaz_ore4"
+    }
+  ]
+  }
+}

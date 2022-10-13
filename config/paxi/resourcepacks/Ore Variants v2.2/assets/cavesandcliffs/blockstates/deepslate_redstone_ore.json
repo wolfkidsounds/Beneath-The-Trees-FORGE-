@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "": [
+	{
+      "model": "cavesandcliffs:block/deepslate_redstone_ore"
+    },
+	{
+      "model": "cavesandcliffs:block/deepslate_redstone_ore1"
+    },
+	{
+      "model": "cavesandcliffs:block/deepslate_redstone_ore2"
+    },
+	{
+      "model": "cavesandcliffs:block/deepslate_redstone_ore3"
+    },
+	{
+      "model": "cavesandcliffs:block/deepslate_redstone_ore4"
+    }
+	]
+  }
+}

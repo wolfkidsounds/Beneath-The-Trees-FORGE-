@@ -1,0 +1,202 @@
+{
+	id: "5D381FF8CE3C2B0A"
+	group: "47446AA458B700FB"
+	order_index: 2
+	filename: "storage_drawers"
+	title: "Storage Drawers"
+	icon: "storagedrawers:controller"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			x: -2.0d
+			y: 1.0d
+			id: "1DFAFD17927DA92F"
+			tasks: [{
+				id: "1CAB68CEADA0FA49"
+				type: "item"
+				item: "framedcompactdrawers:framed_full_one"
+			}]
+		}
+		{
+			x: -0.5d
+			y: 1.0d
+			id: "188BB916810B4204"
+			tasks: [{
+				id: "1DDC7FBCCB3F192E"
+				type: "item"
+				item: "framedcompactdrawers:framed_full_two"
+			}]
+		}
+		{
+			x: 1.0d
+			y: 1.0d
+			id: "7DE1BA8BEAB4D824"
+			tasks: [{
+				id: "58176F38F584CC61"
+				type: "item"
+				item: "framedcompactdrawers:framed_full_four"
+			}]
+		}
+		{
+			x: 2.5d
+			y: 1.0d
+			id: "439CC67EFF21D488"
+			tasks: [{
+				id: "3E66D4E589900356"
+				type: "item"
+				item: "framedcompactdrawers:framed_half_one"
+			}]
+		}
+		{
+			x: -3.5d
+			y: 1.0d
+			id: "574C77381B734BDF"
+			tasks: [{
+				id: "2B57808FD9C9D154"
+				type: "item"
+				item: "framedcompactdrawers:framed_trim"
+			}]
+		}
+		{
+			x: 4.0d
+			y: 1.0d
+			id: "0E3EA5FF0C6BEA96"
+			tasks: [{
+				id: "464985A67AC7A801"
+				type: "item"
+				item: "framedcompactdrawers:framed_half_two"
+			}]
+		}
+		{
+			x: 5.5d
+			y: 1.0d
+			id: "64FE7E4455E6E7AC"
+			tasks: [{
+				id: "14C921D555F6AF6B"
+				type: "item"
+				item: "framedcompactdrawers:framed_half_four"
+			}]
+		}
+		{
+			x: -3.5d
+			y: 2.5d
+			id: "40B6F08E7493375A"
+			tasks: [{
+				id: "0A6D204ABD2A528A"
+				type: "item"
+				item: "storagedrawers:controller"
+			}]
+		}
+		{
+			x: -2.0d
+			y: 2.5d
+			id: "27B7DEA7791EA790"
+			tasks: [{
+				id: "12D8EC2CD5F8BEA1"
+				type: "item"
+				item: "storagedrawers:controller_slave"
+			}]
+		}
+		{
+			x: 7.0d
+			y: 1.0d
+			id: "53653B222D746E66"
+			tasks: [{
+				id: "50EE66A6D167ADDB"
+				type: "item"
+				item: "storagedrawers:compacting_drawers_3"
+			}]
+		}
+		{
+			x: -3.5d
+			y: 4.0d
+			id: "0831262048BAB981"
+			tasks: [{
+				id: "2783CF7FC68BFB75"
+				type: "item"
+				item: "storagedrawers:upgrade_template"
+			}]
+		}
+		{
+			x: -2.0d
+			y: 4.0d
+			id: "137612B55B89E4A0"
+			tasks: [{
+				id: "1C5CD7CFC868F2C3"
+				type: "item"
+				item: "storagedrawers:obsidian_storage_upgrade"
+			}]
+		}
+		{
+			x: -0.5d
+			y: 4.0d
+			id: "2D74C8ABD0E66B1A"
+			tasks: [{
+				id: "37C92F8A1E9C1B18"
+				type: "item"
+				item: "storagedrawers:iron_storage_upgrade"
+			}]
+		}
+		{
+			x: 1.0d
+			y: 4.0d
+			id: "6F9AC6DD52AF38F0"
+			tasks: [{
+				id: "39F12FD01C35EF9A"
+				type: "item"
+				item: "storagedrawers:gold_storage_upgrade"
+			}]
+		}
+		{
+			x: 4.0d
+			y: 4.0d
+			id: "161C97BD8973F9C4"
+			tasks: [{
+				id: "1488213D3CCE7EEF"
+				type: "item"
+				item: "storagedrawers:emerald_storage_upgrade"
+			}]
+		}
+		{
+			x: 2.5d
+			y: 4.0d
+			id: "36C0DBF83A5FF592"
+			tasks: [{
+				id: "7D12C2334A10B859"
+				type: "item"
+				item: "storagedrawers:diamond_storage_upgrade"
+			}]
+		}
+		{
+			x: -3.5d
+			y: 5.5d
+			id: "295E97B161B883DB"
+			tasks: [{
+				id: "4EE6A939FDE4CCEF"
+				type: "item"
+				item: "storagedrawers:drawer_key"
+			}]
+		}
+		{
+			x: -2.0d
+			y: 5.5d
+			id: "30D5998A6F36BA97"
+			tasks: [{
+				id: "46851D0C820E7228"
+				type: "item"
+				item: "storagedrawers:quantify_key"
+			}]
+		}
+		{
+			x: -0.5d
+			y: 5.5d
+			id: "107AC5741EBF2CFA"
+			tasks: [{
+				id: "29A58CEF333F293F"
+				type: "item"
+				item: "storagedrawers:shroud_key"
+			}]
+		}
+	]
+}
