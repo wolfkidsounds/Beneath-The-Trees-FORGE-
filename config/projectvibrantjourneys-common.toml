@@ -4,15 +4,15 @@
 
 	#World Gen Settings
 	[Settings."World Gen"]
-		seaOats = true
-		cattails = true
+		seaOats = false
+		cattails = false
 		barkMushrooms = true
 		cobwebs = true
-		bushes = true
-		glowcap = true
-		netherNettles = true
-		shortGrass = true
-		beachGrass = true
+		bushes = false
+		glowcap = false
+		netherNettles = false
+		shortGrass = false
+		beachGrass = false
 		fallenTrees = true
 		#Seagrass in lakes
 		moreSeagrass = true
@@ -22,29 +22,29 @@
 		[Settings."World Gen".Groundcover]
 			rocks = true
 			twigs = true
-			fallenLeaves = true
-			bones = true
-			charredBones = true
-			iceChunks = true
+			fallenLeaves = false
+			bones = false
+			charredBones = false
+			iceChunks = false
 			pinecones = true
-			seashells = true
+			seashells = false
 			# % chance of groundcover placement
 			#Range: 0 ~ 100
-			groundcoverChance = 100
+			groundcoverChance = 50
 			#Groundcover Biome Blacklist, example: ["minecraft:plains", "minecraft:beach"]
 			groundcoverBlacklist = ["minecraft:snowy_tundra", "minecraft:snowy_mountains"]
 
 	[Settings."Mob Settings"]
 
 		[Settings."Mob Settings"."Mob Toggles"]
-			"Enable Flies" = true
-			"Enable Fireflies" = true
-			"Enable Starfish" = true
-			"Enable Clams" = true
+			"Enable Flies" = false
+			"Enable Fireflies" = false
+			"Enable Starfish" = false
+			"Enable Clams" = false
 			"Enable Snails" = true
-			"Enable Slugs" = true
+			"Enable Slugs" = false
 			"Enable Small Spiders" = true
-			"Enable Frogs" = true
+			"Enable Frogs" = false
 
 			[Settings."Mob Settings"."Mob Toggles"."Mob Spawn Weights"]
 				"Fly Spawn Weight" = 15
@@ -57,7 +57,7 @@
 				"Frog Spawn Weight" = 30
 
 		[Settings."Mob Settings"."Misc Mob Settings"]
-			"Mute Flies" = false
+			"Mute Flies" = true
 
 		[Settings."Mob Settings"."Vanilla Mob Settings"]
 			#Tropical fish in jungles
@@ -67,31 +67,31 @@
 
 	#Biome Settings
 	[Settings.Biomes]
-		overgrown_spires = true
-		verdant_sands = true
-		boreal_forest = true
-		snowy_boreal_forest = true
-		redwoods = true
-		snowy_redwoods = true
-		redwood_peaks = true
-		pine_meadows = true
-		alpine_heights = true
-		boreal_plateau = true
-		aspen_grove = true
-		mangrove_marsh = true
-		willow_wetlands = true
-		baobab_fields = true
-		prairie = true
-		blossoming_fields = true
-		autumnal_coniferous_forest = true
-		crimson_thicket = true
-		desert_shrubland = true
-		red_rock_valley = true
-		crystal_lakes = true
-		windswept_cliffs = true
-		meadows = true
-		flooded_woodlands = true
-		stony_fields = true
+		overgrown_spires = false
+		verdant_sands = false
+		boreal_forest = false
+		snowy_boreal_forest = false
+		redwoods = false
+		snowy_redwoods = false
+		redwood_peaks = false
+		pine_meadows = false
+		alpine_heights = false
+		boreal_plateau = false
+		aspen_grove = false
+		mangrove_marsh = false
+		willow_wetlands = false
+		baobab_fields = false
+		prairie = false
+		blossoming_fields = false
+		autumnal_coniferous_forest = false
+		crimson_thicket = false
+		desert_shrubland = false
+		red_rock_valley = false
+		crystal_lakes = false
+		windswept_cliffs = false
+		meadows = false
+		flooded_woodlands = false
+		stony_fields = false
 
 		#Biome Weights
 		[Settings.Biomes."Biome Weights"]
@@ -127,6 +127,6 @@
 
 	#Tree Settings
 	[Settings."Tree Settings"]
-		enablePalmTrees = true
-		enableJuniperTrees = true
+		enablePalmTrees = false
+		enableJuniperTrees = false
 
