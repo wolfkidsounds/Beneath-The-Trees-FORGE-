@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "": [
+	{
+      "model": "sullysmod:block/jade_ore"
+    },
+	{
+      "model": "sullysmod:block/jade_ore_1"
+    },
+	{
+      "model": "sullysmod:block/jade_ore_2"
+    },
+	{
+      "model": "sullysmod:block/jade_ore_3"
+    },
+	{
+      "model": "sullysmod:block/jade_ore_4"
+    }
+	]
+  }
+}

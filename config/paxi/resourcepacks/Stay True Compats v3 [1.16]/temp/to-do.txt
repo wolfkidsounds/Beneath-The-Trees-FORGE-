@@ -1,0 +1,23 @@
+> natural stone types overlays.
+> remaining plants.
++ planks overlay and variants.
+> soul sand.
+> tree roots.
++ remaining crops.
+> wooden buttons.
++ cut stones bricks types overlay and texture.
+> bookshelves.
+> fences.
+> buttons and pressure plate.
+> redo sandstone variants and add overlays.
+> stone bricks types variants.
+> myalite bricks overlay.
+> ores overlays.
+> rose quart crystal variants.
+> raw zinc block variants.
+
+- tweaked bushy leaves.
++ added connected textures for remaining Biomes O'Plenty logs, normal and stripped.
++ remade cherry and jacaranda log connected textures.
++ added connected textures for Quark logs, normal and stripped.
++ added variants for Farmer's Delight tomato and onion crops.

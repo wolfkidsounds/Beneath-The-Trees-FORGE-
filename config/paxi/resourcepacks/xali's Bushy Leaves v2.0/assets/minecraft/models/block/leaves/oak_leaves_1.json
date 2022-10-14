@@ -1,7 +1,0 @@
-{
-    "parent": "xalixilax:block/template_leaves_1",
-    "textures": {
-        "all": "block/oak_leaves",
-        "bushy": "block/oak_leaves_1"
-    }
-}

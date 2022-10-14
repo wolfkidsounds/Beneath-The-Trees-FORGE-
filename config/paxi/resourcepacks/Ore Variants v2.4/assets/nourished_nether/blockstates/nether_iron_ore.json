@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "": [
+	{
+      "model": "nourished_nether:block/nether_iron_ore"
+    },
+	{
+      "model": "nourished_nether:block/nether_iron_ore1"
+    },
+	{
+      "model": "nourished_nether:block/nether_iron_ore2"
+    },
+	{
+      "model": "nourished_nether:block/nether_iron_ore3"
+    },
+	{
+      "model": "nourished_nether:block/nether_iron_ore4"
+    }
+	]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "": [
+	{
+      "model": "nourished_end:block/malachite_ore"
+    },
+	{
+      "model": "nourished_end:block/malachite_ore_1"
+    },
+	{
+      "model": "nourished_end:block/malachite_ore_2"
+    },
+	{
+      "model": "nourished_end:block/malachite_ore_3"
+    },
+	{
+      "model": "nourished_end:block/malachite_ore_4"
+    }
+	]
+  }
+}

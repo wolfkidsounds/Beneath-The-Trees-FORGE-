@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "": [
+	{
+      "model": "oreganized:block/deepslate_lead_ore"
+    },
+	{
+      "model": "oreganized:block/deepslate_lead_ore1"
+    },
+	{
+      "model": "oreganized:block/deepslate_lead_ore2"
+    },
+	{
+      "model": "oreganized:block/deepslate_lead_ore3"
+    },
+	{
+      "model": "oreganized:block/deepslate_lead_ore4"
+    }
+	]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "": [
+	{
+      "model": "oreganized:block/lead_ore"
+    },
+	{
+      "model": "oreganized:block/lead_ore1"
+    },
+	{
+      "model": "oreganized:block/lead_ore2"
+    },
+	{
+      "model": "oreganized:block/lead_ore3"
+    },
+	{
+      "model": "oreganized:block/lead_ore4"
+    }
+	]
+  }
+}

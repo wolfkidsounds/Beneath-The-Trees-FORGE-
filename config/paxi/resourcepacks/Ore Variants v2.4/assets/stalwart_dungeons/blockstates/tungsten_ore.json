@@ -1,0 +1,18 @@
+{
+  "variants": {
+    "": [
+	{
+      "model": "stalwart_dungeons:block/tungsten_ore"
+    },
+	{
+      "model": "stalwart_dungeons:block/tungsten_ore1"
+    },
+	{
+      "model": "stalwart_dungeons:block/tungsten_ore2"
+    },
+	{
+      "model": "stalwart_dungeons:block/tungsten_ore3"
+    }
+	]
+  }
+}
