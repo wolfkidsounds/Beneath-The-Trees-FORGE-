@@ -588,7 +588,7 @@
 
 		["When Configurations Arise"."Aquatic Structures"."Undead Pirate Ship Spawning Settings"]
 			#Whether Undead Pirate Ships generate on your worlds or not.
-			undeadPirateShipGenerates = true
+			undeadPirateShipGenerates = false
 			#Maximum separation between Undead Pirate Ships (in chunks).
 			#Range: 0 ~ 1000000
 			undeadPirateShipSpacing = 60
@@ -648,7 +648,7 @@
 
 		["When Configurations Arise"."Aquatic Structures"."Illager Galley Spawning Settings"]
 			#Whether Illager Galleys generate on your worlds or not.
-			illagerGalleyGenerates = true
+			illagerGalleyGenerates = false
 			#Maximum separation between Illager Galleys (in chunks).
 			#Range: 0 ~ 1000000
 			illagerGalleySpacing = 50
