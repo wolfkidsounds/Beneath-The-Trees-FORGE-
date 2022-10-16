@@ -1,0 +1,401 @@
+{
+	id: "0EAA6F462F32E234"
+	group: "4E660FEFF367A345"
+	order_index: 2
+	filename: "mushrooms"
+	title: "Mushrooms"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			x: -4.5d
+			y: -4.5d
+			id: "3B4A16A1432C8B9C"
+			tasks: [{
+				id: "791CA20EEC6A4D89"
+				type: "item"
+				item: "minecraft:brown_mushroom"
+			}]
+		}
+		{
+			x: -5.5d
+			y: -4.5d
+			id: "63C9FBFC686102F0"
+			tasks: [{
+				id: "45C1560197CDCE59"
+				type: "item"
+				item: "minecraft:red_mushroom"
+			}]
+		}
+		{
+			x: -8.5d
+			y: -4.5d
+			id: "4C8FDF9F997E6407"
+			tasks: [{
+				id: "198E865FDBCA46E0"
+				type: "item"
+				item: "biomesoplenty:glowshroom"
+			}]
+		}
+		{
+			x: -7.5d
+			y: -4.5d
+			id: "6B4E5F2FD9AED1C7"
+			tasks: [{
+				id: "07C465F7974D857E"
+				type: "item"
+				item: "farmersdelight:brown_mushroom_colony"
+			}]
+		}
+		{
+			x: -6.5d
+			y: -4.5d
+			id: "0EE2637E56F42D08"
+			tasks: [{
+				id: "349FE7F0A6E5ABAB"
+				type: "item"
+				item: "farmersdelight:red_mushroom_colony"
+			}]
+		}
+		{
+			x: -9.5d
+			y: -4.5d
+			id: "0EF9623A34A285ED"
+			tasks: [{
+				id: "56CA5992DBCC09C8"
+				type: "item"
+				item: "projectvibrantjourneys:bark_mushroom"
+			}]
+		}
+		{
+			x: -9.5d
+			y: -3.5d
+			id: "00EAE55BBBF6E106"
+			tasks: [{
+				id: "63C1CB60BAEF5DB1"
+				type: "item"
+				item: "mushroomquest:beechmushrooms"
+			}]
+		}
+		{
+			x: -8.5d
+			y: -3.5d
+			id: "78378956635E4652"
+			tasks: [{
+				id: "69148FBBFB8110AA"
+				type: "item"
+				item: "mushroomquest:honeymushroom"
+			}]
+		}
+		{
+			x: -7.5d
+			y: -3.5d
+			id: "729052098D68953F"
+			tasks: [{
+				id: "39DAF73204C240A1"
+				type: "item"
+				item: "mushroomquest:oystermushroom"
+			}]
+		}
+		{
+			x: -6.5d
+			y: -3.5d
+			id: "5524C48CFA3170B4"
+			tasks: [{
+				id: "11C71818FB507384"
+				type: "item"
+				item: "mushroomquest:latticemushroom"
+			}]
+		}
+		{
+			x: -5.5d
+			y: -3.5d
+			id: "1E69D1546AC1305D"
+			tasks: [{
+				id: "1829EFC152B248C8"
+				type: "item"
+				item: "mushroomquest:caesarsmushroom"
+			}]
+		}
+		{
+			x: -4.5d
+			y: -3.5d
+			id: "4C9466D343A94669"
+			tasks: [{
+				id: "5162D8EB09C3AD59"
+				type: "item"
+				item: "mushroomquest:lingzhimushroom"
+			}]
+		}
+		{
+			x: -3.5d
+			y: -3.5d
+			id: "57354022D8AAF3A6"
+			tasks: [{
+				id: "507A82192C7F9E50"
+				type: "item"
+				item: "mushroomquest:meadowmushroom"
+			}]
+		}
+		{
+			x: -2.5d
+			y: -3.5d
+			id: "1929C68BAC5B6315"
+			tasks: [{
+				id: "7B8D180DDFB3D3FD"
+				type: "item"
+				item: "mushroomquest:fairyringmushroom"
+			}]
+		}
+		{
+			x: -1.5d
+			y: -3.5d
+			id: "3444676780F49D4E"
+			tasks: [{
+				id: "35F957AB66137ED2"
+				type: "item"
+				item: "mushroomquest:horsemushroom"
+			}]
+		}
+		{
+			x: -0.5d
+			y: -3.5d
+			id: "486F75E60DE93F8E"
+			tasks: [{
+				id: "3BD808C23EA3AFA1"
+				type: "item"
+				item: "mushroomquest:parasolmushroom"
+			}]
+		}
+		{
+			x: -1.5d
+			y: -2.5d
+			id: "54F88409B676395D"
+			tasks: [{
+				id: "4FCF9BA407FEA27C"
+				type: "item"
+				item: "mushroomquest:magicshrooms"
+			}]
+		}
+		{
+			x: -2.5d
+			y: -4.5d
+			id: "6EA05FA95C8FD557"
+			tasks: [{
+				id: "6517753DA7555676"
+				type: "item"
+				item: "mushroomquest:lanternshroomblock"
+			}]
+		}
+		{
+			x: -9.5d
+			y: -2.5d
+			id: "3D35AB956CB7D3B7"
+			tasks: [{
+				id: "21EC4D68B98B8EE2"
+				type: "item"
+				item: "mushroomquest:chestnutmushroom"
+			}]
+		}
+		{
+			x: -8.5d
+			y: -2.5d
+			id: "609200BAFDD82381"
+			tasks: [{
+				id: "521C3C3B1DDF0EFB"
+				type: "item"
+				item: "mushroomquest:mushroomofthesun"
+			}]
+		}
+		{
+			x: -7.5d
+			y: -2.5d
+			id: "6585B6EAAF26EDE9"
+			tasks: [{
+				id: "6A96CC8202C360E1"
+				type: "item"
+				item: "mushroomquest:lobstermushroom"
+			}]
+		}
+		{
+			x: -6.5d
+			y: -2.5d
+			id: "533109DC01ACE004"
+			tasks: [{
+				id: "2DCDB1DB51ED48D0"
+				type: "item"
+				item: "mushroomquest:blueglowshroom"
+			}]
+		}
+		{
+			x: -5.5d
+			y: -2.5d
+			id: "397477AD4F6D6DBD"
+			tasks: [{
+				id: "47675033BB30ABF8"
+				type: "item"
+				item: "mushroomquest:magentaglowshroom"
+			}]
+		}
+		{
+			x: -4.5d
+			y: -2.5d
+			id: "54A6B39439B32C17"
+			tasks: [{
+				id: "5314A95F41871580"
+				type: "item"
+				item: "mushroomquest:greenglowshroom"
+			}]
+		}
+		{
+			x: -3.5d
+			y: -2.5d
+			id: "0B1093E02B5FF1E1"
+			tasks: [{
+				id: "49DAC56956B2BBC4"
+				type: "item"
+				item: "mushroomquest:tinyfungibunch"
+			}]
+		}
+		{
+			x: -2.5d
+			y: -2.5d
+			id: "2ACF73D905F5985E"
+			tasks: [{
+				id: "0FAB720CB6908184"
+				type: "item"
+				item: "mushroomquest:bigmushroombunch"
+			}]
+		}
+		{
+			x: -0.5d
+			y: -4.5d
+			id: "405216509C5DE5AA"
+			tasks: [{
+				id: "171622EE2135DF01"
+				type: "item"
+				item: "mushroomquest:red_tear_mushroom"
+			}]
+		}
+		{
+			x: -3.5d
+			y: -4.5d
+			id: "742BA2DF692F4397"
+			tasks: [{
+				id: "34065A5902E1F301"
+				type: "item"
+				item: "subwild:short_foxfire"
+			}]
+		}
+		{
+			x: -1.5d
+			y: -4.5d
+			id: "553F1FE1BF83A9CE"
+			tasks: [{
+				id: "67420783C7EE3908"
+				type: "item"
+				item: "pamhc2crops:whitemushroomitem"
+			}]
+		}
+		{
+			x: -9.5d
+			y: -1.5d
+			id: "7A20DB402DCA060A"
+			tasks: [{
+				id: "23BB46280A2ACB2C"
+				type: "item"
+				item: "minecraft:crimson_fungus"
+			}]
+		}
+		{
+			x: -8.5d
+			y: -1.5d
+			id: "122D1DFFFE599FE2"
+			tasks: [{
+				id: "4B7B4D5D96530BC2"
+				type: "item"
+				item: "minecraft:warped_fungus"
+			}]
+		}
+		{
+			x: -7.5d
+			y: -1.5d
+			id: "3C0E897829ACDB77"
+			tasks: [{
+				id: "1BBB7BC6CBFA8C27"
+				type: "item"
+				item: "mushroomquest:beefsteakfungus"
+			}]
+		}
+		{
+			x: -6.5d
+			y: -1.5d
+			id: "7942BE62C6C4233B"
+			tasks: [{
+				id: "163FC7BE9DF710BA"
+				type: "item"
+				item: "mushroomquest:caterpillarfungus"
+			}]
+		}
+		{
+			x: -5.5d
+			y: -1.5d
+			id: "24C3AA0A75999F45"
+			tasks: [{
+				id: "482F9911ABEAFB10"
+				type: "item"
+				item: "mushroomquest:bleedingtoothfungus"
+			}]
+		}
+		{
+			x: -4.5d
+			y: -1.5d
+			id: "45AE85979F7BD6EE"
+			tasks: [{
+				id: "2855CED83F9E43FF"
+				type: "item"
+				item: "mushroomquest:coraltoothfungus"
+			}]
+		}
+		{
+			x: -3.5d
+			y: -1.5d
+			id: "2F3BCF0F95FDF498"
+			tasks: [{
+				id: "2F1C7F51D5A136C9"
+				type: "item"
+				item: "mushroomquest:snowfungus"
+			}]
+		}
+		{
+			x: -2.5d
+			y: -1.5d
+			id: "1BED6BB1ECFBC964"
+			tasks: [{
+				id: "3CA40F21B62D98D5"
+				type: "item"
+				item: "mushroomquest:cauliflowerfungus"
+			}]
+		}
+		{
+			x: -1.5d
+			y: -1.5d
+			id: "471913736B65A3C0"
+			tasks: [{
+				id: "198143D3AFB61BEA"
+				type: "item"
+				item: "mushroomquest:tall_crimson_fungi"
+			}]
+		}
+		{
+			x: -0.5d
+			y: -1.5d
+			id: "1566CBF68C90A7DF"
+			tasks: [{
+				id: "745B7DE1E20306D7"
+				type: "item"
+				item: "mushroomquest:tall_warped_fungus"
+			}]
+		}
+	]
+}
