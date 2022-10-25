@@ -1,0 +1,23 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_mixingbowl"
+    },
+    {
+      "tag": "forge:flour"
+    },
+    {
+      "item": "pamhc2foodcore:freshwateritem"
+    },
+    {
+      "tag": "forge:salt"
+    }
+	],
+	
+	"result": {"item": "pamhc2foodcore:doughitem",
+	"count": 2}
+	
+}

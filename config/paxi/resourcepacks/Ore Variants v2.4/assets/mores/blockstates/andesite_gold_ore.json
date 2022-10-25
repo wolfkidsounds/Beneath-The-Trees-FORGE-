@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "mores:block/andesite_gold_ore"
+      },
+      {
+        "model": "mores:block/andesite_gold_ore1"
+      },
+      {
+        "model": "mores:block/andesite_gold_ore2"
+      },
+      {
+        "model": "mores:block/andesite_gold_ore3"
+      },
+      {
+        "model": "mores:block/andesite_gold_ore4"
+      }
+    ]
+  }
+}

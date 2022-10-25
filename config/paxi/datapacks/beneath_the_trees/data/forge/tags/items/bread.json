@@ -1,0 +1,19 @@
+{
+    "replace":false,
+    "values":[
+        "atum:emmer_bread",
+        "autumnity:pumpkin_bread",
+        "pamhc2foodcore:pumpkinbreaditem",
+        "pamhc2foodcore:carrotbreaditem",
+        "nocubes_wilderness:sweet_berry_jam_bread",
+        "nocubes_wilderness:lingonberry_jam_bread",
+        "nocubes_wilderness:raspberry_jam_bread",
+        "nocubes_wilderness:blueberry_jam_bread",
+        "upgrade_aquatic:mulberry_bread",
+        "pamhc2foodextended:walnutraisinbreaditem",
+        "pamhc2foodextended:banananutbreaditem",
+        "minecraft:bread",
+        "pamhc2foodextended:cornbreaditem"
+    ]
+}
+

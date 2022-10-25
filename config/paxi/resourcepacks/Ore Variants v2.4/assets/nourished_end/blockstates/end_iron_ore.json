@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "": [
+	{
+      "model": "nourished_end:block/end_iron_ore"
+    },
+	{
+      "model": "nourished_end:block/end_iron_ore_1"
+    },
+	{
+      "model": "nourished_end:block/end_iron_ore_2"
+    },
+	{
+      "model": "nourished_end:block/end_iron_ore_3"
+    },
+	{
+      "model": "nourished_end:block/end_iron_ore_4"
+    }
+	]
+  }
+}

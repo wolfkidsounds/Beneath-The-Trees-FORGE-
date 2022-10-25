@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "": [
+    {
+      "model": "gemsandcrystals:block/quartz_ore"
+    },
+    {
+      "model": "gemsandcrystals:block/quartz_ore1"
+    },
+    {
+      "model": "gemsandcrystals:block/quartz_ore2"
+    },
+    {
+      "model": "gemsandcrystals:block/quartz_ore3"
+    },
+    {
+      "model": "gemsandcrystals:block/quartz_ore4"
+    }
+  ]
+  }
+}

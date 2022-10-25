@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "cavesandcliffs:block/deepslate_lapis_ore2"
+  }
+}

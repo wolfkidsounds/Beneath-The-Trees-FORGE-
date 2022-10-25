@@ -1,0 +1,6 @@
+{
+	"parent": "block/cube_all",
+	"textures": {
+		"all": "randomite:block/randomite_ore1"
+	}
+}

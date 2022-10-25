@@ -8,5 +8,13 @@ manifest.json
 patchouli_data.json
 saves/
 logs/
-ambience_music/
 downloads/
+schematics/
+patchouli_books/
+local/
+dumps/
+crash-reports/
+options.txt
+reauth.toml
+knownkeys.txt
+config/tellme/

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "nourished_nether:blocks/new_iron_ore_24",
+    "up": "nourished_nether:blocks/new_iron_ore_24",
+    "north": "nourished_nether:blocks/new_iron_ore_24",
+    "east": "nourished_nether:blocks/new_iron_ore_24",
+    "south": "nourished_nether:blocks/new_iron_ore_24",
+    "west": "nourished_nether:blocks/new_iron_ore_24",
+    "particle": "nourished_nether:blocks/new_iron_ore_24"
+  }
+}

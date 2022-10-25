@@ -1,0 +1,21 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "item": "farmersdelight:skillet"
+    },
+    {
+      "tag": "forge:bread"
+    },
+    {
+      "tag": "forge:butter"
+    }
+
+	],
+	
+	"result": {"item": "pamhc2foodcore:toastitem",
+	"count": 2}
+	
+}

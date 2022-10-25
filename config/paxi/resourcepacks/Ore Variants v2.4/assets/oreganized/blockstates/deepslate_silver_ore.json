@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "": [
+	{
+      "model": "oreganized:block/deepslate_silver_ore"
+    },
+	{
+      "model": "oreganized:block/deepslate_silver_ore1"
+    },
+	{
+      "model": "oreganized:block/deepslate_silver_ore2"
+    },
+	{
+      "model": "oreganized:block/deepslate_silver_ore3"
+    },
+	{
+      "model": "oreganized:block/deepslate_silver_ore4"
+    }
+	]
+  }
+}

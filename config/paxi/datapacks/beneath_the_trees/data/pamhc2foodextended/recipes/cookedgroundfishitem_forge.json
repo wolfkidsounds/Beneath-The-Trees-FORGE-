@@ -1,0 +1,8 @@
+{
+	"type": "minecraft:smelting",
+	"ingredient": {"tag": "forge:groundmeats/groundfish"},
+	"result": "pamhc2foodextended:cookedgroundfishitem",
+	"experience": 0.35,
+	"cookingtime": 200
+
+}

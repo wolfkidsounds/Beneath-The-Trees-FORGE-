@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "": [
+	{
+      "model": "nourished_nether:block/soul_quartz_ore"
+    },
+	{
+      "model": "nourished_nether:block/soul_quartz_ore1"
+    },
+	{
+      "model": "nourished_nether:block/soul_quartz_ore2"
+    },
+	{
+      "model": "nourished_nether:block/soul_quartz_ore3"
+    },
+	{
+      "model": "nourished_nether:block/soul_quartz_ore4"
+    }
+	]
+  }
+}

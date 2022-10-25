@@ -1,0 +1,15 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "enderscape:block/nebulite_ore"
+      },
+	  {
+        "model": "enderscape:block/nebulite_ore1"
+      },
+	  {
+        "model": "enderscape:block/nebulite_ore2"
+      }
+    ]
+  }
+}

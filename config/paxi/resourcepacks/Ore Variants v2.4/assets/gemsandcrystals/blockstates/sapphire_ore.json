@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "": [
+    {
+      "model": "gemsandcrystals:block/sapphire_ore"
+    },
+    {
+      "model": "gemsandcrystals:block/sapphire_ore1"
+    },
+    {
+      "model": "gemsandcrystals:block/sapphire_ore2"
+    },
+    {
+      "model": "gemsandcrystals:block/sapphire_ore3"
+    },
+    {
+      "model": "gemsandcrystals:block/sapphire_ore4"
+    }
+  ]
+  }
+}

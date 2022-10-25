@@ -1,0 +1,15 @@
+{
+  "variants": {
+    "": [
+	{
+      "model": "cinderscapes:block/sulfur_quartz_ore"
+    },
+	{
+      "model": "cinderscapes:block/sulfur_quartz_ore2"
+    },
+	{
+      "model": "cinderscapes:block/sulfur_quartz_ore1"
+    }
+	]
+  }
+}

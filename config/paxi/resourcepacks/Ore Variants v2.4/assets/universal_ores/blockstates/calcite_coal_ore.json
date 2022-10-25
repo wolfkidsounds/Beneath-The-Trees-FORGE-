@@ -1,0 +1,21 @@
+{
+	"variants": {
+		"": [
+		{
+			"model": "universal_ores:block/calcite_coal_ore"
+		},
+		{
+			"model": "universal_ores:block/calcite_coal_ore1"
+		},
+		{
+			"model": "universal_ores:block/calcite_coal_ore2"
+		},
+		{
+			"model": "universal_ores:block/calcite_coal_ore3"
+		},
+		{
+			"model": "universal_ores:block/calcite_coal_ore4"
+		}
+	]
+	}
+}

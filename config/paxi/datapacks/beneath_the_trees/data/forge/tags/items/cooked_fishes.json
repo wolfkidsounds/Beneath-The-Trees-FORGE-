@@ -1,0 +1,14 @@
+{
+    "replace":false,
+    "values":[
+        "#forge:cooked_fishes/salmon",
+        "#forge:cooked_fishes/cod",
+        "#forge:cooked_fishes/clam",
+        "#forge:cooked_fishes/lionfish",
+        "#forge:cooked_fishes/lobster",
+        "#forge:cooked_fishes/perch",
+        "#forge:cooked_fishes/pike",
+        "#forge:cooked_fishes/spinefish",
+        "#forge:cooked_fishes/stingray"
+    ]
+}

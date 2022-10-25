@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tools/knives"
+    },
+    {
+      "tag": "forge:rawpork"
+    },
+    {
+      "tag": "forge:salt"
+    }
+
+
+	],
+	
+	"result": {"item": "pamhc2foodcore:porkjerkyitem",
+	"count": 1}
+	
+}

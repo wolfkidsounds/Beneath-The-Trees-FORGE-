@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "": [
+	{
+      "model": "cavesandcliffs:block/deepslate_coal_ore"
+    },
+	{
+      "model": "cavesandcliffs:block/deepslate_coal_ore1"
+    },
+	{
+      "model": "cavesandcliffs:block/deepslate_coal_ore2"
+    },
+	{
+      "model": "cavesandcliffs:block/deepslate_coal_ore3"
+    },
+	{
+      "model": "cavesandcliffs:block/deepslate_coal_ore4"
+    }
+	]
+  }
+}

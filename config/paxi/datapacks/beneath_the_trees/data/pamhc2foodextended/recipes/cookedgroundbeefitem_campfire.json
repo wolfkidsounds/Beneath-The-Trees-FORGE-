@@ -1,0 +1,8 @@
+{
+	"type": "minecraft:campfire_cooking",
+	"ingredient": {"tag": "forge:groundmeats/groundbeef"},
+	"result": "pamhc2foodextended:cookedgroundbeefitem",
+	"experience": 0.35,
+	"cookingtime": 600
+
+}

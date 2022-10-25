@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "": [
+    {
+      "model": "gemsandcrystals:block/amethyst_ore"
+    },
+    {
+      "model": "gemsandcrystals:block/amethyst_ore1"
+    },
+    {
+      "model": "gemsandcrystals:block/amethyst_ore2"
+    },
+    {
+      "model": "gemsandcrystals:block/amethyst_ore3"
+    },
+    {
+      "model": "gemsandcrystals:block/amethyst_ore4"
+    }
+  ]
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "nourished_end:blocks/new_end_iron_ore",
+    "particle": "nourished_end:blocks/new_end_iron_ore"
+  }
+}

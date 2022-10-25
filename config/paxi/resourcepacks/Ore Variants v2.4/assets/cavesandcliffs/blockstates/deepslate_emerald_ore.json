@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "": [
+	{
+      "model": "cavesandcliffs:block/deepslate_emerald_ore"
+    },
+	{
+      "model": "cavesandcliffs:block/deepslate_emerald_ore1"
+    },
+	{
+      "model": "cavesandcliffs:block/deepslate_emerald_ore2"
+    },
+	{
+      "model": "cavesandcliffs:block/deepslate_emerald_ore3"
+    },
+	{
+      "model": "cavesandcliffs:block/deepslate_emerald_ore4"
+    }
+	]
+  }
+}

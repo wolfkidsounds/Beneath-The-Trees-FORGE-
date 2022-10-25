@@ -1,0 +1,311 @@
+{
+	id: "759BB78BB1F0E8B3"
+	group: "4E660FEFF367A345"
+	order_index: 0
+	filename: "crios"
+	title: "Crops"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			x: -4.0d
+			y: -2.0d
+			id: "173CBB57B1E8D2F6"
+			tasks: [{
+				id: "029384BA3D00B236"
+				type: "item"
+				item: "minecraft:wheat_seeds"
+			}]
+		}
+		{
+			x: -3.0d
+			y: -2.0d
+			id: "25DCBC935D751409"
+			tasks: [{
+				id: "79CBAADA44FA9CAA"
+				type: "item"
+				item: "minecraft:pumpkin_seeds"
+			}]
+		}
+		{
+			x: -2.0d
+			y: -2.0d
+			id: "725759287E7D02C7"
+			tasks: [{
+				id: "6C93D35B7E55E10A"
+				type: "item"
+				item: "minecraft:melon_seeds"
+			}]
+		}
+		{
+			x: -1.0d
+			y: -2.0d
+			id: "4F31C7FF51490902"
+			tasks: [{
+				id: "398DACF2EC6C3232"
+				type: "item"
+				item: "minecraft:beetroot_seeds"
+			}]
+		}
+		{
+			x: 0.0d
+			y: -2.0d
+			id: "57B4E61D1906DAD8"
+			tasks: [{
+				id: "230078F4EFE8ED0D"
+				type: "item"
+				item: "supplementaries:flax_seeds"
+			}]
+		}
+		{
+			x: 1.0d
+			y: -2.0d
+			id: "34056C2C86EE087F"
+			tasks: [{
+				id: "6B05727E60A9B28E"
+				type: "item"
+				item: "farmersdelight:cabbage_seeds"
+			}]
+		}
+		{
+			x: 2.0d
+			y: -2.0d
+			id: "09BC4BDDC20C7214"
+			tasks: [{
+				id: "6BFAAA71B8DA44B3"
+				type: "item"
+				item: "farmersdelight:tomato_seeds"
+			}]
+		}
+		{
+			x: 3.0d
+			y: -2.0d
+			id: "64C75180F27C3397"
+			tasks: [{
+				id: "4138AB9644DC93E3"
+				type: "item"
+				item: "dtupgradeaquatic:mulberry_seed"
+			}]
+		}
+		{
+			x: 4.0d
+			y: -2.0d
+			id: "588E1CB8CC1179DD"
+			tasks: [{
+				id: "2E1B483EA3730CC2"
+				type: "item"
+				item: "pamhc2crops:sesameseedsitem"
+			}]
+		}
+		{
+			x: 5.0d
+			y: -2.0d
+			id: "7B6A6AB33B64FBDB"
+			tasks: [{
+				id: "049A72B1FDD2F50C"
+				type: "item"
+				item: "pamhc2crops:mustardseedsitem"
+			}]
+		}
+		{
+			x: -4.0d
+			y: -0.5d
+			id: "2EBE249F54776AEC"
+			tasks: [{
+				id: "26CEB35ABD5D05E3"
+				type: "item"
+				item: "pamhc2crops:agaveseeditem"
+			}]
+		}
+		{
+			x: -3.0d
+			y: -0.5d
+			id: "0531E57B85120BAF"
+			tasks: [{
+				id: "57194182B5483898"
+				type: "item"
+				item: "pamhc2crops:amaranthseeditem"
+			}]
+		}
+		{
+			x: -2.0d
+			y: -0.5d
+			id: "12B66998AAB5D38C"
+			tasks: [{
+				id: "05BEB813B9D6E559"
+				type: "item"
+				item: "pamhc2crops:arrowrootseeditem"
+			}]
+		}
+		{
+			x: -1.0d
+			y: -0.5d
+			id: "55424334D32F824F"
+			tasks: [{
+				id: "31CC94E92BA412F2"
+				type: "item"
+				item: "pamhc2crops:artichokeseeditem"
+			}]
+		}
+		{
+			x: 0.0d
+			y: -0.5d
+			id: "070EF50FD5B047E4"
+			tasks: [{
+				id: "2267EEECD6656C75"
+				type: "item"
+				item: "pamhc2crops:asparagusseeditem"
+			}]
+		}
+		{
+			x: 1.0d
+			y: -0.5d
+			id: "630DDBF592D3F04A"
+			tasks: [{
+				id: "544EB2555122172E"
+				type: "item"
+				item: "pamhc2crops:barleyseeditem"
+			}]
+		}
+		{
+			x: 2.0d
+			y: -0.5d
+			id: "409930D08A4E1286"
+			tasks: [{
+				id: "15AB0CC421E24C68"
+				type: "item"
+				item: "pamhc2crops:beanseeditem"
+			}]
+		}
+		{
+			x: 3.0d
+			y: -0.5d
+			id: "5B2A0BC83A798E0E"
+			tasks: [{
+				id: "1706D252AF22C49C"
+				type: "item"
+				item: "pamhc2crops:bellpepperseeditem"
+			}]
+		}
+		{
+			x: 4.0d
+			y: -0.5d
+			id: "00483B22353EA556"
+			tasks: [{
+				id: "1F3C50B5086BBE35"
+				type: "item"
+				item: "pamhc2crops:blackberryseeditem"
+			}]
+		}
+		{
+			x: 5.0d
+			y: -0.5d
+			id: "5A2DB4391FB3CC99"
+			tasks: [{
+				id: "6A631A15FA0C8007"
+				type: "item"
+				item: "pamhc2crops:blueberryseeditem"
+			}]
+		}
+		{
+			x: -3.0d
+			y: 0.5d
+			id: "3B53A38B03B56387"
+			tasks: [{
+				id: "586A1D441884B14A"
+				type: "item"
+				item: "pamhc2crops:brusselsproutseeditem"
+			}]
+		}
+		{
+			x: -4.0d
+			y: 0.5d
+			id: "1679F5E25EF642A3"
+			tasks: [{
+				id: "2CC0F1C0261127B4"
+				type: "item"
+				item: "pamhc2crops:broccoliseeditem"
+			}]
+		}
+		{
+			x: -2.0d
+			y: 0.5d
+			id: "6894FE39B660D81F"
+			tasks: [{
+				id: "59EED3B1570E928F"
+				type: "item"
+				item: "pamhc2crops:cabbageseeditem"
+			}]
+		}
+		{
+			x: -1.0d
+			y: 0.5d
+			id: "7AAEA97DA4A810D5"
+			tasks: [{
+				id: "3B1864D4C7CF2CBD"
+				type: "item"
+				item: "pamhc2crops:cactusfruitseeditem"
+			}]
+		}
+		{
+			x: 0.0d
+			y: 0.5d
+			id: "22C53FC5C9B63FE5"
+			tasks: [{
+				id: "17490FDE8B38CB82"
+				type: "item"
+				item: "pamhc2crops:candleberryseeditem"
+			}]
+		}
+		{
+			x: 1.0d
+			y: 0.5d
+			id: "0D78EDC9BE7ABD8D"
+			tasks: [{
+				id: "2649180A64205681"
+				type: "item"
+				item: "pamhc2crops:cantaloupeseeditem"
+			}]
+		}
+		{
+			x: 2.0d
+			y: 0.5d
+			id: "15084F0F690DDD51"
+			tasks: [{
+				id: "7AA00ED3D7F9D5A9"
+				type: "item"
+				item: "pamhc2crops:cassavaseeditem"
+			}]
+		}
+		{
+			x: 3.0d
+			y: 0.5d
+			id: "1050FCC89535338C"
+			tasks: [{
+				id: "52D2556181897668"
+				type: "item"
+				item: "pamhc2crops:cauliflowerseeditem"
+			}]
+		}
+		{
+			x: 4.0d
+			y: 0.5d
+			id: "639C7481EE5D49E6"
+			tasks: [{
+				id: "40B71FF151FF5229"
+				type: "item"
+				item: "pamhc2crops:celeryseeditem"
+			}]
+		}
+		{
+			x: 5.0d
+			y: 0.5d
+			id: "5DDB5C326E7E9001"
+			tasks: [{
+				id: "5B128E568CDF3EB9"
+				type: "item"
+				item: "pamhc2crops:chickpeaseeditem"
+			}]
+		}
+	]
+}

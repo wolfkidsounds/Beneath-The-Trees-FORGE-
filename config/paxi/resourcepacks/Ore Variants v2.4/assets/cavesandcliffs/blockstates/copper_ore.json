@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "": [
+	{
+      "model": "cavesandcliffs:block/copper_ore"
+    },
+	{
+      "model": "cavesandcliffs:block/copper_ore1"
+    },
+	{
+      "model": "cavesandcliffs:block/copper_ore2"
+    },
+	{
+      "model": "cavesandcliffs:block/copper_ore3"
+    },
+	{
+      "model": "cavesandcliffs:block/copper_ore4"
+    }
+	]
+  }
+}

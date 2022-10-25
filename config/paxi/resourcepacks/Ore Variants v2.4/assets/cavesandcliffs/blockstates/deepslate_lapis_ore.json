@@ -1,0 +1,18 @@
+{
+  "variants": {
+    "": [
+	{
+      "model": "cavesandcliffs:block/deepslate_lapis_ore"
+    },
+	{
+      "model": "cavesandcliffs:block/deepslate_lapis_ore1"
+    },
+	{
+      "model": "cavesandcliffs:block/deepslate_lapis_ore2"
+    },
+	{
+      "model": "cavesandcliffs:block/deepslate_lapis_ore3"
+    }
+	]
+  }
+}

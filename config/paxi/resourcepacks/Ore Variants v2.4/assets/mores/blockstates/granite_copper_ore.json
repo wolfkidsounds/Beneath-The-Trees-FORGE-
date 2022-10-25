@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "mores:block/granite_copper_ore"
+      },
+      {
+        "model": "mores:block/granite_copper_ore1"
+      },
+      {
+        "model": "mores:block/granite_copper_ore2"
+      },
+      {
+        "model": "mores:block/granite_copper_ore3"
+      },
+      {
+        "model": "mores:block/granite_copper_ore4"
+      }
+    ]
+  }
+}

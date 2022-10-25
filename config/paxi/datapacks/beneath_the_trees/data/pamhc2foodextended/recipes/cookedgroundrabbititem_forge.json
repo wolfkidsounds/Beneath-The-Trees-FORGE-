@@ -1,0 +1,8 @@
+{
+	"type": "minecraft:smelting",
+	"ingredient": {"tag": "forge:groundmeats/groundrabbit"},
+	"result": "pamhc2foodextended:cookedgroundrabbititem",
+	"experience": 0.35,
+	"cookingtime": 200
+
+}

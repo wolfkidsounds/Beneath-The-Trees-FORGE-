@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "": [
+	{
+      "model": "nourished_nether:block/basalt_redstone_ore"
+    },
+	{
+      "model": "nourished_nether:block/basalt_redstone_ore1"
+    },
+	{
+      "model": "nourished_nether:block/basalt_redstone_ore2"
+    },
+	{
+      "model": "nourished_nether:block/basalt_redstone_ore3"
+    },
+	{
+      "model": "nourished_nether:block/basalt_redstone_ore4"
+    }
+	]
+  }
+}

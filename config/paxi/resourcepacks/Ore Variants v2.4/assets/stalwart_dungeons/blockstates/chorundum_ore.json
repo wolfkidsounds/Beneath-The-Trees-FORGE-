@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "":[
+	{
+      "model": "stalwart_dungeons:block/chorundum_ore"
+    },
+	{
+      "model": "stalwart_dungeons:block/chorundum_ore1"
+    },
+	{
+      "model": "stalwart_dungeons:block/chorundum_ore2"
+    },
+	{
+      "model": "stalwart_dungeons:block/chorundum_ore3"
+    },
+	{
+      "model": "stalwart_dungeons:block/chorundum_ore4"
+    }
+	]
+  }
+}

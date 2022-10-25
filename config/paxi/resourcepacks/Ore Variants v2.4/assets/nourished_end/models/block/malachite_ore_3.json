@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "nourished_end:blocks/malachite_ore_new_3",
+    "particle": "nourished_end:blocks/malachite_ore_new_3"
+  }
+}

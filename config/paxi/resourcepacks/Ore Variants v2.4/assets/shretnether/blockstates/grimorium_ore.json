@@ -1,0 +1,12 @@
+{
+  "variants": {
+    "": [
+	{
+      "model": "shretnether:block/grimorium_ore"
+    },
+	{
+      "model": "shretnether:block/grimorium_ore1"
+    }
+	]
+  }
+}

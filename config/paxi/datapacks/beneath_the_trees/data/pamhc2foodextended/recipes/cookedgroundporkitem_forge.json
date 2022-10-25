@@ -1,0 +1,8 @@
+{
+	"type": "minecraft:smelting",
+	"ingredient": {"tag": "forge:groundmeats/groundpork"},
+	"result": "pamhc2foodextended:cookedgroundporkitem",
+	"experience": 0.35,
+	"cookingtime": 200
+
+}

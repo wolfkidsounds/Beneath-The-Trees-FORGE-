@@ -1,0 +1,21 @@
+{
+	"variants": {
+		"": [
+		{
+			"model": "universal_ores:block/diorite_redstone_ore"
+		},
+		{
+			"model": "universal_ores:block/diorite_redstone_ore1"
+		},
+		{
+			"model": "universal_ores:block/diorite_redstone_ore2"
+		},
+		{
+			"model": "universal_ores:block/diorite_redstone_ore3"
+		},
+		{
+			"model": "universal_ores:block/diorite_redstone_ore4"
+		}
+		]
+	}
+}

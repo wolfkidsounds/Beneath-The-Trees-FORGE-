@@ -1,0 +1,15 @@
+{
+  "variants": {
+    "": [
+	{
+      "model": "shretnether:block/fossil_soul_sand"
+    },
+	{
+      "model": "shretnether:block/fossil_soul_sand1"
+    },
+	{
+      "model": "shretnether:block/fossil_soul_sand2"
+    }
+	]
+  }
+}

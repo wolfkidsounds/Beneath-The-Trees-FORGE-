@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "": [
+	{
+      "model": "galosphere:block/deepslate_silver_ore"
+    },
+	{
+      "model": "galosphere:block/deepslate_silver_ore_1"
+    },
+	{
+      "model": "galosphere:block/deepslate_silver_ore_2"
+    },
+	{
+      "model": "galosphere:block/deepslate_silver_ore_3"
+    },
+	{
+      "model": "galosphere:block/deepslate_silver_ore_4"
+    }
+	]
+  }
+}

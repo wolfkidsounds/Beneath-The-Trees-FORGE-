@@ -1,0 +1,15 @@
+{
+	"variants": {
+		"": [
+		{
+			"model": "randomite:block/deepslate_randomite_ore"
+		},
+		{
+			"model": "randomite:block/deepslate_randomite_ore1"
+		},
+		{
+			"model": "randomite:block/deepslate_randomite_ore2"
+		}
+		]
+	}
+}

@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "": [
+	{
+      "model": "create:block/deepslate_zinc_ore"
+    },
+	{
+      "model": "create:block/deepslate_zinc_ore1"
+    },
+	{
+      "model": "create:block/deepslate_zinc_ore2"
+    },
+	{
+      "model": "create:block/deepslate_zinc_ore3"
+    },
+	{
+      "model": "create:block/deepslate_zinc_ore4"
+    }
+	]
+  }
+}

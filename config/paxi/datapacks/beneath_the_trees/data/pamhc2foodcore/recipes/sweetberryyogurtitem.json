@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tools/knives"
+    },
+    {
+      "tag": "forge:yogurt"
+    },
+    {
+      "tag": "forge:crops/sweetberry"
+    }
+
+
+	],
+	
+	"result": {"item": "pamhc2foodcore:sweetberryyogurtitem",
+	"count": 1}
+	
+}

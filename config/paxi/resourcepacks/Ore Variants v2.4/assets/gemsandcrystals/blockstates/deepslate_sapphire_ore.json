@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "": [
+    {
+      "model": "gemsandcrystals:block/deepslate_sapphire_ore"
+    },
+    {
+      "model": "gemsandcrystals:block/deepslate_sapphire_ore1"
+    },
+    {
+      "model": "gemsandcrystals:block/deepslate_sapphire_ore2"
+    },
+    {
+      "model": "gemsandcrystals:block/deepslate_sapphire_ore3"
+    },
+    {
+      "model": "gemsandcrystals:block/deepslate_sapphire_ore4"
+    }
+  ]
+  }
+}

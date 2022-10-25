@@ -1,0 +1,15 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "enderscape:block/shadow_quartz_ore"
+      },
+	  {
+        "model": "enderscape:block/shadow_quartz_ore1"
+      },
+	  {
+        "model": "enderscape:block/shadow_quartz_ore2"
+      }
+    ]
+  }
+}

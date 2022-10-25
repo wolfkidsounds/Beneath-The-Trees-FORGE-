@@ -1,0 +1,83 @@
+{
+	id: "643BC495A8F06D32"
+	group: "3E51456E4875AE21"
+	order_index: 0
+	filename: "dimensions"
+	title: "Dimensions"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			title: "The Overworld"
+			x: -1.5d
+			y: -5.0d
+			id: "76280EFCBB4C4D4C"
+			tasks: [{
+				id: "783E2F9F432651D1"
+				type: "dimension"
+				title: "Minecraft - Overworld"
+				dimension: "minecraft:overworld"
+			}]
+		}
+		{
+			title: "The Nether"
+			x: -1.5d
+			y: -2.0d
+			id: "6B2DF4F788437B27"
+			tasks: [{
+				id: "10C2A0D4DD446A25"
+				type: "dimension"
+				title: "Minecraft - The Nether"
+				dimension: "minecraft:the_nether"
+			}]
+		}
+		{
+			title: "The End"
+			x: -0.5d
+			y: -2.0d
+			id: "5EE808489D3F3778"
+			tasks: [{
+				id: "680B0C8E530AF522"
+				type: "dimension"
+				title: "Minecraft - The End"
+				dimension: "minecraft:the_end"
+			}]
+		}
+		{
+			title: "The Desert"
+			x: -2.5d
+			y: -1.0d
+			id: "334DEC18BD3978BD"
+			tasks: [{
+				id: "554A96F86FF97FF8"
+				type: "dimension"
+				title: "Atum - Atum"
+				dimension: "atum:atum"
+			}]
+		}
+		{
+			title: "The Dungeon"
+			x: -1.5d
+			y: -1.0d
+			id: "3BF3A0F5B3A11523"
+			tasks: [{
+				id: "64622E1AE53A4E17"
+				type: "dimension"
+				title: "Dimensional Dungeon"
+				dimension: "dimdungeons:dungeon_dimension"
+			}]
+		}
+		{
+			title: "The Caves"
+			x: -0.5d
+			y: -1.0d
+			id: "4B591F65869B52B4"
+			tasks: [{
+				id: "4C03B91747E9C32E"
+				type: "dimension"
+				title: "Mining Dimension"
+				dimension: "mining_dimension:mining"
+			}]
+		}
+	]
+}

@@ -1,0 +1,11 @@
+{
+    "variants": {
+        "": [
+		{ "model": "lolenderite:block/enderite_ore" },
+		{ "model": "lolenderite:block/enderite_ore_1" },
+		{ "model": "lolenderite:block/enderite_ore_2" },
+		{ "model": "lolenderite:block/enderite_ore_3" },
+		{ "model": "lolenderite:block/enderite_ore_4" }
+		]
+    }
+}

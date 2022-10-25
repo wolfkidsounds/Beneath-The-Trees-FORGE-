@@ -1,0 +1,15 @@
+{
+  "variants": {
+    "": [
+	{
+      "model": "shretnether:block/fossil_ore"
+    },
+	{
+      "model": "shretnether:block/fossil_ore1"
+    },
+	{
+      "model": "shretnether:block/fossil_ore2"
+    }
+	]
+  }
+}

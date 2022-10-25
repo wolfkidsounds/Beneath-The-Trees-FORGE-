@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "": [
+	{
+      "model": "oreganized:block/silver_ore"
+    },
+	{
+      "model": "oreganized:block/silver_ore1"
+    },
+	{
+      "model": "oreganized:block/silver_ore2"
+    },
+	{
+      "model": "oreganized:block/silver_ore"
+    },
+	{
+      "model": "oreganized:block/silver_ore4"
+    }
+	]
+  }
+}

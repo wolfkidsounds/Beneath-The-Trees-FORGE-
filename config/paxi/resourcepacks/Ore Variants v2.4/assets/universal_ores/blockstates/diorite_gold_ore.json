@@ -1,0 +1,21 @@
+{
+	"variants": {
+		"": [
+		{
+			"model": "universal_ores:block/diorite_gold_ore"
+		},
+		{
+			"model": "universal_ores:block/diorite_gold_ore1"
+		},
+		{
+			"model": "universal_ores:block/diorite_gold_ore2"
+		},
+		{
+			"model": "universal_ores:block/diorite_gold_ore3"
+		},
+		{
+			"model": "universal_ores:block/diorite_gold_ore4"
+		}
+		]
+	}
+}
