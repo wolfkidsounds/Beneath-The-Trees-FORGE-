@@ -89,7 +89,7 @@
 	"Patch Size:" = 1
 
 ["WILD BLUEBERRY"]
-	"Enabled:" = true
+	"Enabled:" = false
 	#Default: [RIVER]
 	"Biome Type:" = "RIVER"
 	#Default [1]
@@ -512,7 +512,7 @@
 	"Patch Size:" = 1
 
 ["WILD RASPBERRY"]
-	"Enabled:" = true
+	"Enabled:" = false
 	#Default: [MOUNTAIN]
 	"Biome Type:" = "MOUNTAIN"
 	#Default [1]
