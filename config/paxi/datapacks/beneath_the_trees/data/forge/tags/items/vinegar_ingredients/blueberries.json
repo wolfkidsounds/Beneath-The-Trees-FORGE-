@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "pamhc2crops:blueberryitem",
+    "simplefarming:blueberries",
+    "nocubes_wilderness:blueberry"
+  ]
+}

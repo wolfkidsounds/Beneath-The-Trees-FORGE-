@@ -1,0 +1,7 @@
+{
+    "replace":false,
+    "values":[
+        "minecraft:potato",
+        "pamhc2crops:sweetpotatoitem"
+    ]
+}
