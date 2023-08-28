@@ -3,6 +3,7 @@ usernamecache.json
 usercache.json
 servers.dat
 resourcepacks/Quark Programmer Art.zip
+resourcepacks/
 minecraftinstance.json
 manifest.json
 patchouli_data.json
@@ -10,3 +11,16 @@ saves/
 logs/
 ambience_music/
 downloads/
+crash-reports/
+impossible_data/
+lightspeed-cache/
+local/
+music_sheets/
+paintings/
+patchouli_books/
+schematics/
+trees/
+shaderpacks/
+options.txt
+WailaErrorOutput.txt
+knownkeys.txt
