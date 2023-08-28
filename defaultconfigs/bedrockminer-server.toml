@@ -1,0 +1,38 @@
+
+#Items
+[items]
+	#Set the durability for bedrock armor
+	#Range: 10 ~ 1000
+	armor_durability = 50
+	#Set the enchantability for bedrock armor
+	#Range: 0 ~ 30
+	armor_enchantability = 18
+	#Set the toughness for bedrock armor
+	#Range: 0 ~ 10
+	armor_toughness = 3
+	#Activate special effects if you wear Bedrock Armor
+	armor_effects = false
+	#Set the durability for bedrock tools
+	#Range: 50 ~ 10000
+	tool_durability = 2500
+	#Set the efficiency for bedrock tools
+	#Range: 1.0 ~ 20.0
+	tool_efficiency = 8.5
+	#Set the damage for bedrock tools
+	#Range: 1.0 ~ 20.0
+	tool_damage = 3.5
+	#Set the speed for bedrock tools
+	#Range: 1.0 ~ 20.0
+	tool_speed = 6.0
+	#Set the attack speed modifier for bedrock tools relative to the normal speed
+	#Range: -5.0 ~ 20.0
+	tool_attack_speed_modifier = -0.20000000298023224
+	#Set the enchantability for bedrock tools
+	#Range: 0 ~ 20
+	tool_enchantability = 3
+
+#Blocks
+[blocks]
+	#This makes that the Bedrock Breaker harvests only Bedrock or any block
+	harvest_only_bedrock = false
+

@@ -1,0 +1,469 @@
+
+["HARVESTCRAFT WILD AGAVE"]
+	"Enabled:" = true
+	#SMALLER=MORE - Default [64]
+	#Range: > 0
+	"Chance:" = 265
+
+["HARVESTCRAFT WILD AMARANTH"]
+	"Enabled:" = true
+	#SMALLER=MORE - Default [64]
+	#Range: > 0
+	"Chance:" = 265
+
+["HARVESTCRAFT WILD ARROWROOT"]
+	"Enabled:" = true
+	#SMALLER=MORE - Default [64]
+	#Range: > 0
+	"Chance:" = 265
+
+["HARVESTCRAFT WILD ARTICHOKE"]
+	"Enabled:" = true
+	#SMALLER=MORE - Default [64]
+	#Range: > 0
+	"Chance:" = 265
+
+["HARVESTCRAFT WILD ASPARAGUS"]
+	"Enabled:" = true
+	#SMALLER=MORE - Default [64]
+	#Range: > 0
+	"Chance:" = 265
+
+["HARVESTCRAFT WILD BARLEY"]
+	"Enabled:" = true
+	#SMALLER=MORE - Default [64]
+	#Range: > 0
+	"Chance:" = 265
+
+["HARVESTCRAFT WILD BEAN"]
+	"Enabled:" = true
+	#SMALLER=MORE - Default [64]
+	#Range: > 0
+	"Chance:" = 265
+
+["HARVESTCRAFT WILD BELLPEPPER"]
+	"Enabled:" = true
+	#SMALLER=MORE - Default [64]
+	#Range: > 0
+	"Chance:" = 265
+
+["HARVESTCRAFT WILD BLACKBERRY"]
+	"Enabled:" = true
+	#SMALLER=MORE - Default [64]
+	#Range: > 0
+	"Chance:" = 265
+
+["HARVESTCRAFT WILD BLUEBERRY"]
+	"Enabled:" = true
+	#SMALLER=MORE - Default [64]
+	#Range: > 0
+	"Chance:" = 265
+
+["HARVESTCRAFT WILD BROCCOLI"]
+	"Enabled:" = true
+	#SMALLER=MORE - Default [64]
+	#Range: > 0
+	"Chance:" = 265
+
+["HARVESTCRAFT WILD BRUSSELSPROUT"]
+	"Enabled:" = true
+	#SMALLER=MORE - Default [64]
+	#Range: > 0
+	"Chance:" = 265
+
+["HARVESTCRAFT WILD CABBAGE"]
+	"Enabled:" = true
+	#SMALLER=MORE - Default [64]
+	#Range: > 0
+	"Chance:" = 265
+
+["HARVESTCRAFT WILD CACTUSFRUIT"]
+	"Enabled:" = true
+	#SMALLER=MORE - Default [64]
+	#Range: > 0
+	"Chance:" = 265
+
+["HARVESTCRAFT WILD CANDLEBERRY"]
+	"Enabled:" = true
+	#SMALLER=MORE - Default [64]
+	#Range: > 0
+	"Chance:" = 265
+
+["HARVESTCRAFT WILD CANTALOUPE"]
+	"Enabled:" = true
+	#SMALLER=MORE - Default [64]
+	#Range: > 0
+	"Chance:" = 265
+
+["HARVESTCRAFT WILD CASSAVA"]
+	"Enabled:" = true
+	#SMALLER=MORE - Default [64]
+	#Range: > 0
+	"Chance:" = 265
+
+["HARVESTCRAFT WILD CAULIFLOWER"]
+	"Enabled:" = true
+	#SMALLER=MORE - Default [64]
+	#Range: > 0
+	"Chance:" = 265
+
+["HARVESTCRAFT WILD CELERY"]
+	"Enabled:" = true
+	#SMALLER=MORE - Default [64]
+	#Range: > 0
+	"Chance:" = 265
+
+["HARVESTCRAFT WILD CHICKPEA"]
+	"Enabled:" = true
+	#SMALLER=MORE - Default [64]
+	#Range: > 0
+	"Chance:" = 265
+
+["HARVESTCRAFT WILD CHILIPEPPER"]
+	"Enabled:" = true
+	#SMALLER=MORE - Default [64]
+	#Range: > 0
+	"Chance:" = 265
+
+["HARVESTCRAFT WILD COFFEEBEAN"]
+	"Enabled:" = true
+	#SMALLER=MORE - Default [64]
+	#Range: > 0
+	"Chance:" = 265
+
+["HARVESTCRAFT WILD CORN"]
+	"Enabled:" = true
+	#SMALLER=MORE - Default [64]
+	#Range: > 0
+	"Chance:" = 265
+
+["HARVESTCRAFT WILD COTTON"]
+	"Enabled:" = true
+	#SMALLER=MORE - Default [64]
+	#Range: > 0
+	"Chance:" = 265
+
+["HARVESTCRAFT WILD CRANBERRY"]
+	"Enabled:" = true
+	#SMALLER=MORE - Default [64]
+	#Range: > 0
+	"Chance:" = 265
+
+["HARVESTCRAFT WILD CUCUMBER"]
+	"Enabled:" = true
+	#SMALLER=MORE - Default [64]
+	#Range: > 0
+	"Chance:" = 265
+
+["HARVESTCRAFT WILD EGGPLANT"]
+	"Enabled:" = true
+	#SMALLER=MORE - Default [64]
+	#Range: > 0
+	"Chance:" = 265
+
+["HARVESTCRAFT WILD ELDERBERRY"]
+	"Enabled:" = true
+	#SMALLER=MORE - Default [64]
+	#Range: > 0
+	"Chance:" = 265
+
+["HARVESTCRAFT WILD FLAX"]
+	"Enabled:" = true
+	#SMALLER=MORE - Default [64]
+	#Range: > 0
+	"Chance:" = 265
+
+["HARVESTCRAFT WILD GARLIC"]
+	"Enabled:" = true
+	#SMALLER=MORE - Default [64]
+	#Range: > 0
+	"Chance:" = 265
+
+["HARVESTCRAFT WILD GINGER"]
+	"Enabled:" = true
+	#SMALLER=MORE - Default [64]
+	#Range: > 0
+	"Chance:" = 265
+
+["HARVESTCRAFT WILD GRAPE"]
+	"Enabled:" = true
+	#SMALLER=MORE - Default [64]
+	#Range: > 0
+	"Chance:" = 265
+
+["HARVESTCRAFT WILD GREENGRAPE"]
+	"Enabled:" = true
+	#SMALLER=MORE - Default [64]
+	#Range: > 0
+	"Chance:" = 265
+
+["HARVESTCRAFT WILD HUCKLEBERRY"]
+	"Enabled:" = true
+	#SMALLER=MORE - Default [64]
+	#Range: > 0
+	"Chance:" = 265
+
+["HARVESTCRAFT WILD JICAMA"]
+	"Enabled:" = true
+	#SMALLER=MORE - Default [64]
+	#Range: > 0
+	"Chance:" = 265
+
+["HARVESTCRAFT WILD JUNIPERBERRY"]
+	"Enabled:" = true
+	#SMALLER=MORE - Default [64]
+	#Range: > 0
+	"Chance:" = 265
+
+["HARVESTCRAFT WILD JUTE"]
+	"Enabled:" = true
+	#SMALLER=MORE - Default [64]
+	#Range: > 0
+	"Chance:" = 265
+
+["HARVESTCRAFT WILD KALE"]
+	"Enabled:" = true
+	#SMALLER=MORE - Default [64]
+	#Range: > 0
+	"Chance:" = 265
+
+["HARVESTCRAFT WILD KENAF"]
+	"Enabled:" = true
+	#SMALLER=MORE - Default [64]
+	#Range: > 0
+	"Chance:" = 265
+
+["HARVESTCRAFT WILD KIWI"]
+	"Enabled:" = true
+	#SMALLER=MORE - Default [64]
+	#Range: > 0
+	"Chance:" = 265
+
+["HARVESTCRAFT WILD KOHLRABI"]
+	"Enabled:" = true
+	#SMALLER=MORE - Default [64]
+	#Range: > 0
+	"Chance:" = 265
+
+["HARVESTCRAFT WILD LEEK"]
+	"Enabled:" = true
+	#SMALLER=MORE - Default [64]
+	#Range: > 0
+	"Chance:" = 265
+
+["HARVESTCRAFT WILD LENTIL"]
+	"Enabled:" = true
+	#SMALLER=MORE - Default [64]
+	#Range: > 0
+	"Chance:" = 265
+
+["HARVESTCRAFT WILD LETTUCE"]
+	"Enabled:" = true
+	#SMALLER=MORE - Default [64]
+	#Range: > 0
+	"Chance:" = 265
+
+["HARVESTCRAFT WILD MILLET"]
+	"Enabled:" = true
+	#SMALLER=MORE - Default [64]
+	#Range: > 0
+	"Chance:" = 265
+
+["HARVESTCRAFT WILD MULBERRY"]
+	"Enabled:" = true
+	#SMALLER=MORE - Default [64]
+	#Range: > 0
+	"Chance:" = 265
+
+["HARVESTCRAFT WILD MUSTARDSEEDS"]
+	"Enabled:" = true
+	#SMALLER=MORE - Default [64]
+	#Range: > 0
+	"Chance:" = 265
+
+["HARVESTCRAFT WILD OATS"]
+	"Enabled:" = true
+	#SMALLER=MORE - Default [64]
+	#Range: > 0
+	"Chance:" = 265
+
+["HARVESTCRAFT WILD OKRA"]
+	"Enabled:" = true
+	#SMALLER=MORE - Default [64]
+	#Range: > 0
+	"Chance:" = 265
+
+["HARVESTCRAFT WILD ONION"]
+	"Enabled:" = true
+	#SMALLER=MORE - Default [64]
+	#Range: > 0
+	"Chance:" = 265
+
+["HARVESTCRAFT WILD PARSNIP"]
+	"Enabled:" = true
+	#SMALLER=MORE - Default [64]
+	#Range: > 0
+	"Chance:" = 265
+
+["HARVESTCRAFT WILD PEANUT"]
+	"Enabled:" = true
+	#SMALLER=MORE - Default [64]
+	#Range: > 0
+	"Chance:" = 265
+
+["HARVESTCRAFT WILD PEAS"]
+	"Enabled:" = true
+	#SMALLER=MORE - Default [64]
+	#Range: > 0
+	"Chance:" = 265
+
+["HARVESTCRAFT WILD PINEAPPLE"]
+	"Enabled:" = true
+	#SMALLER=MORE - Default [64]
+	#Range: > 0
+	"Chance:" = 265
+
+["HARVESTCRAFT WILD QUINOA"]
+	"Enabled:" = true
+	#SMALLER=MORE - Default [64]
+	#Range: > 0
+	"Chance:" = 265
+
+["HARVESTCRAFT WILD RADISH"]
+	"Enabled:" = true
+	#SMALLER=MORE - Default [64]
+	#Range: > 0
+	"Chance:" = 265
+
+["HARVESTCRAFT WILD RASPBERRY"]
+	"Enabled:" = true
+	#SMALLER=MORE - Default [64]
+	#Range: > 0
+	"Chance:" = 265
+
+["HARVESTCRAFT WILD RHUBARB"]
+	"Enabled:" = true
+	#SMALLER=MORE - Default [64]
+	#Range: > 0
+	"Chance:" = 265
+
+["HARVESTCRAFT WILD RICE"]
+	"Enabled:" = true
+	#SMALLER=MORE - Default [64]
+	#Range: > 0
+	"Chance:" = 265
+
+["HARVESTCRAFT WILD RUTABAGA"]
+	"Enabled:" = true
+	#SMALLER=MORE - Default [64]
+	#Range: > 0
+	"Chance:" = 265
+
+["HARVESTCRAFT WILD RYE"]
+	"Enabled:" = true
+	#SMALLER=MORE - Default [64]
+	#Range: > 0
+	"Chance:" = 265
+
+["HARVESTCRAFT WILD SCALLION"]
+	"Enabled:" = true
+	#SMALLER=MORE - Default [64]
+	#Range: > 0
+	"Chance:" = 265
+
+["HARVESTCRAFT WILD SESAMESEEDS"]
+	"Enabled:" = true
+	#SMALLER=MORE - Default [64]
+	#Range: > 0
+	"Chance:" = 265
+
+["HARVESTCRAFT WILD SISAL"]
+	"Enabled:" = true
+	#SMALLER=MORE - Default [64]
+	#Range: > 0
+	"Chance:" = 265
+
+["HARVESTCRAFT WILD SOYBEAN"]
+	"Enabled:" = true
+	#SMALLER=MORE - Default [64]
+	#Range: > 0
+	"Chance:" = 265
+
+["HARVESTCRAFT WILD SPICELEAF"]
+	"Enabled:" = true
+	#SMALLER=MORE - Default [64]
+	#Range: > 0
+	"Chance:" = 265
+
+["HARVESTCRAFT WILD SPINACH"]
+	"Enabled:" = true
+	#SMALLER=MORE - Default [64]
+	#Range: > 0
+	"Chance:" = 265
+
+["HARVESTCRAFT WILD STRAWBERRY"]
+	"Enabled:" = true
+	#SMALLER=MORE - Default [64]
+	#Range: > 0
+	"Chance:" = 265
+
+["HARVESTCRAFT WILD SWEETPOTATO"]
+	"Enabled:" = true
+	#SMALLER=MORE - Default [64]
+	#Range: > 0
+	"Chance:" = 265
+
+["HARVESTCRAFT WILD TARO"]
+	"Enabled:" = true
+	#SMALLER=MORE - Default [64]
+	#Range: > 0
+	"Chance:" = 265
+
+["HARVESTCRAFT WILD TEALEAF"]
+	"Enabled:" = true
+	#SMALLER=MORE - Default [64]
+	#Range: > 0
+	"Chance:" = 265
+
+["HARVESTCRAFT WILD TOMATILLO"]
+	"Enabled:" = true
+	#SMALLER=MORE - Default [64]
+	#Range: > 0
+	"Chance:" = 265
+
+["HARVESTCRAFT WILD TOMATO"]
+	"Enabled:" = true
+	#SMALLER=MORE - Default [64]
+	#Range: > 0
+	"Chance:" = 265
+
+["HARVESTCRAFT WILD TURNIP"]
+	"Enabled:" = true
+	#SMALLER=MORE - Default [64]
+	#Range: > 0
+	"Chance:" = 265
+
+["HARVESTCRAFT WILD WATERCHESTNUT"]
+	"Enabled:" = true
+	#SMALLER=MORE - Default [64]
+	#Range: > 0
+	"Chance:" = 265
+
+["HARVESTCRAFT WILD WHITEMUSHROOM"]
+	"Enabled:" = true
+	#SMALLER=MORE - Default [64]
+	#Range: > 0
+	"Chance:" = 265
+
+["HARVESTCRAFT WILD WINTERSQUASH"]
+	"Enabled:" = true
+	#SMALLER=MORE - Default [64]
+	#Range: > 0
+	"Chance:" = 265
+
+["HARVESTCRAFT WILD ZUCCHINI"]
+	"Enabled:" = true
+	#SMALLER=MORE - Default [64]
+	#Range: > 0
+	"Chance:" = 265
+

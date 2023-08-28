@@ -1,0 +1,25 @@
+
+["MINECRAFT WILD WHEAT"]
+	"Enabled:" = true
+	#SMALLER=MORE - Default [64]
+	#Range: > 0
+	"Chance:" = 265
+
+["MINECRAFT WILD CARROTS"]
+	"Enabled:" = false
+	#SMALLER=MORE - Default [64]
+	#Range: > 0
+	"Chance:" = 265
+
+["MINECRAFT WILD POTATOES"]
+	"Enabled:" = false
+	#SMALLER=MORE - Default [64]
+	#Range: > 5
+	"Chance:" = 265
+
+["MINECRAFT WILD BEETROOTS"]
+	"Enabled:" = false
+	#SMALLER=MORE - Default [64]
+	#Range: > 5
+	"Chance:" = 265
+

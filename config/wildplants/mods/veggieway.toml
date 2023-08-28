@@ -1,0 +1,31 @@
+
+["VEGGIEWAY WILD CORN"]
+	"Enabled:" = true
+	#SMALLER=MORE - Default [64]
+	#Range: > 0
+	"Chance:" = 265
+
+["VEGGIEWAY WILD LENTIL"]
+	"Enabled:" = true
+	#SMALLER=MORE - Default [64]
+	#Range: > 0
+	"Chance:" = 265
+
+["VEGGIEWAY WILD QUINOA"]
+	"Enabled:" = true
+	#SMALLER=MORE - Default [64]
+	#Range: > 5
+	"Chance:" = 265
+
+["VEGGIEWAY WILD SOYBEAN"]
+	"Enabled:" = true
+	#SMALLER=MORE - Default [64]
+	#Range: > 5
+	"Chance:" = 265
+
+["VEGGIEWAY WILD COTTON"]
+	"Enabled:" = true
+	#SMALLER=MORE - Default [64]
+	#Range: > 5
+	"Chance:" = 265
+

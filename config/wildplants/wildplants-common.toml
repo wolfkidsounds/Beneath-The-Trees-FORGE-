@@ -1,0 +1,16 @@
+
+[General]
+
+	[General.Global_Modifier]
+		#How often to try to place a patch. (smaller is more) [Default: 64]
+		Frequency = 128
+		#How far apart crops are planted in a patch.  (higher is more) [Default: 3]
+		Size = 8
+
+	[General.Compat]
+		Minecraft = true
+		Immersive_Engineering = true
+		Veggie_Way = false
+		Harvestcraft = true
+		EnhancedFarming = false
+

@@ -1,0 +1,8 @@
+
+#General
+[general]
+	#Activate the world generation of the mod
+	world_generation = true
+	#Activate the dungeon loot generation of the mod
+	loot_generation = true
+

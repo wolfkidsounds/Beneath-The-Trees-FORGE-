@@ -1,0 +1,60 @@
+
+["ENHANCEDFARMING WILD MINT"]
+	"Enabled:" = true
+	#SMALLER=MORE - Default [64]
+	#Range: > 0
+	"Chance:" = 265
+
+["ENHANCEDFARMING WILD TOMATO"]
+	"Enabled:" = true
+	#SMALLER=MORE - Default [64]
+	#Range: > 0
+	"Chance:" = 265
+
+["ENHANCEDFARMING WILD CUCUMBER"]
+	"Enabled:" = true
+	#SMALLER=MORE - Default [64]
+	#Range: > 0
+	"Chance:" = 265
+
+["ENHANCEDFARMING WILD AUBERGINE"]
+	"Enabled:" = true
+	#SMALLER=MORE - Default [64]
+	#Range: > 0
+	"Chance:" = 265
+
+["ENHANCEDFARMING WILD GRAPE"]
+	"Enabled:" = true
+	#SMALLER=MORE - Default [64]
+	#Range: > 0
+	"Chance:" = 265
+
+["ENHANCEDFARMING WILD PINEAPPLE"]
+	"Enabled:" = true
+	#SMALLER=MORE - Default [64]
+	#Range: > 0
+	"Chance:" = 265
+
+["ENHANCEDFARMING WILD CORN"]
+	"Enabled:" = true
+	#SMALLER=MORE - Default [64]
+	#Range: > 0
+	"Chance:" = 265
+
+["ENHANCEDFARMING WILD ONION"]
+	"Enabled:" = true
+	#SMALLER=MORE - Default [64]
+	#Range: > 0
+	"Chance:" = 265
+
+["ENHANCEDFARMING WILD GARLIC"]
+	"Enabled:" = true
+	#SMALLER=MORE - Default [64]
+	"Patch Size: " = 1
+
+["ENHANCEDFARMING WILD LETTUCE"]
+	"Enabled:" = true
+	#SMALLER=MORE - Default [64]
+	#Range: > 0
+	"Chance:" = 265
+
