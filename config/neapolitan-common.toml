@@ -19,11 +19,11 @@
 
 	[world.generation]
 		#The chance Strawberry Bushes have to generate in Plains biomes (larger = more common)
-		"Strawberry Bush chance" = 64
+		"Strawberry Bush chance" = 16
 		#The chance Vanilla Vines have to generate in Savanna biomes (larger = more common)
 		"Vanilla Vine chance" = 64
 		#The chance Adzuki Sprouts have to generate in Forest biomes (larger = more common)
-		"Adzuki Sprouts chance" = 64
+		"Adzuki Sprouts chance" = 16
 		#The chance ponds with Mint have to generate in Mountain biomes (smaller = more common)
 		"Mint pond chance" = 8
 		"Banana Plants generate in Beach biomes" = false
