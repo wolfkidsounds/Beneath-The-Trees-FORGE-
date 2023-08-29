@@ -1,0 +1,31 @@
+{
+    "replace":true,
+    "values":[
+        "deligthful:lapis_lazuli_knife",
+        "deligthful:copper_knife",
+        "deligthful:tin_knife",
+        "deligthful:steel_knife",
+        "deligthful:silver_knife",
+        "deligthful:brass_knife",
+        "deligthful:constantan_knife",
+        "deligthful:electrum_knife",
+        "deligthful:lead_knife",
+        "deligthful:nickel_knife",
+        "deligthful:zinc_knife",
+        "deligthful:pendorite_knife",
+        "ends_delight:dragon_egg_shell_knife",
+        "ends_delight:purpur_knife",
+        "ends_delight:end_stone_knife",
+        "ends_delight:dragon_tooth_knife",
+        "farmersdelight:flint_knife",
+        "farmersdelight:iron_knife",
+        "farmersdelight:diamond_knife",
+        "farmersdelight:netherite_knife",
+        "farmersdelight:gold_knife",
+        "notreepunching:flint_knife",
+        "notreepunching:iron_knife",
+        "notreepunching:gold_knife",
+        "notreepunching:diamond_knife",
+        "notreepunching:netherite_knife"
+    ]
+}
