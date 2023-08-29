@@ -1,0 +1,20 @@
+{
+    "replace": false,
+    "values": [
+      "minecraft:gravel",
+      "#minecraft:leaves",
+      "#minecraft:dirt",
+      "minecraft:grass",
+      "minecraft:podzol",
+      "minecraft:coarse_dirt",
+      "#minecraft:sand",
+      "#notreepunching:loose_rocks",
+      "#minecraft:snow",
+      "#minecraft:flowers",
+      "culturaldelights:wild_corn",
+      "biomesoplenty:bush",
+      "deligthful:mini_melon",
+      "farmersdelight:brown_mushroom_colony",
+      "farmersdelight:red_mushroom_colony"
+    ]
+  }
