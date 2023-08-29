@@ -9,10 +9,10 @@
 
     "key": {
       "#": {
-        "item": "minecraft:iron_ingot"
+        "item": "minecraft:chain"
       }
     },
-    
+
     "result": {
       "item": "dustrial_decor:large_chain",
       "count": 2
