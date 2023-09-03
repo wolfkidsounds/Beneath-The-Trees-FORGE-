@@ -1,0 +1,19 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":[
+        {
+            "tag": "forge:tools/knives"
+        },
+        {
+            "item": "minecraft:stick"
+        }
+    ],
+	
+	"result": 
+    {
+        "item": "rusted:sharpstick",
+        "count": 1
+    }
+	
+}
