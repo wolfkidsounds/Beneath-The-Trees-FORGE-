@@ -7,7 +7,7 @@
 	#Enable generation of fallen leaves
 	enableFallenLeaves = false
 	#Enable generation of bones
-	enableBones = false
+	enableBones = true
 	#Enable generation of charred bones
 	enableCharredBones = false
 	#Enable generation of ice chunks
