@@ -294,7 +294,7 @@
 	"Chance:" = 265
 
 ["HARVESTCRAFT WILD ONION"]
-	"Enabled:" = true
+	"Enabled:" = false
 	#SMALLER=MORE - Default [64]
 	#Range: > 0
 	"Chance:" = 265
@@ -432,7 +432,7 @@
 	"Chance:" = 265
 
 ["HARVESTCRAFT WILD TOMATO"]
-	"Enabled:" = true
+	"Enabled:" = false
 	#SMALLER=MORE - Default [64]
 	#Range: > 0
 	"Chance:" = 265
