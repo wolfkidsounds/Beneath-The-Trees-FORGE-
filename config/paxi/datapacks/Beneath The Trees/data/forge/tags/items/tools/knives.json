@@ -1,0 +1,15 @@
+{
+    "replace":true,
+    "values":[
+        "farmersdelight:flint_knife",
+        "farmersdelight:iron_knife",
+        "farmersdelight:diamond_knife",
+        "farmersdelight:netherite_knife",
+        "delightful:copper_knife",
+        "delightful:steel_knife",
+        "delightful:silver_knife",
+        "ends_delight:purpur_knife",
+        "ends_delight:end_stone_knife",
+        "ends_delight:dragon_tooth_knife"
+    ]
+}
