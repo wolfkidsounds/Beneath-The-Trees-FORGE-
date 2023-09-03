@@ -1,0 +1,122 @@
+Changelog
+
+0.0.37
+- Lower Spawn Chance
+- Random Tips
+- Added Property Modifier
+- Random Updates
+- Remove NoTreePunching Knifes
+- Crafting Information for Fiber
+- New Straw Recipes
+- New Fiber Recipes
+- Added Odyssey Hud
+- Added Geolosys
+- Large Chain Recipe
+- Remove some of the flint mods
+- Disabled Forge Version Check due to a bug
+- Update Impossible Library
+- Added EnderCrop
+- Added Dynamic View
+- Removed Tough As Nails
+- Added Thirst Was Taken
+- Removed Create Crystal Clear
+- Added Create Chunk Loading
+- Removed Wood Armor
+- Added Create Addition
+- Added ConstructionWand
+- Removed Connectivity
+- Removed BoatBreakFix
+- Added AntiGhost
+- Removed Aquaculture
+- Added PneumatiCraft
+- Added Its The Little Things
+- Removed Straw Recipes
+- Removed Fiber Recipes
+- Added ColdSweat
+- Added XP From Harvest
+- Removed Bone Age Tech
+- Removed XPTome
+- Updated AppliedEnergistics2
+- Removed BiomeParticleWeather
+- Removed Memory Settings
+- Fixed a Bug where pressing "E" closes the JEI Search
+- Added Compressed Creativity
+- Added Balanced Flight
+- BadMobs Config
+- Added AutoOreDictionary Converter
+- Added AIImprovements
+- Logo for Beneath The Trees
+- Updated Version
+- Updated Block Drops
+- knifes tag
+- new flint knife recipes
+- Added Slice & Dice
+- Added Spice Of Life (Apple Pie Edition)
+- Added Sooty Chimneys
+- Added Unlit Campfire
+- Added Updating World Icon
+- Remove Primitive Potions
+- Remove Pretty Pipes
+- Updated Macaws Furnite
+- Removed LOTW
+- Removed Too New JEI Version
+- Removed Anvil Json
+- Removed CTOV
+- Removed Lodestone
+- Removed Galosphere
+- Updated Immersive Petroleum
+- Removed Dangerous Stonecutter
+- Removed Does Potato Tick
+- Added Create Sifter
+- Removed Neapolitan, Dynamic Tress Neapolitan
+- Removed FireSticks
+- Removed Old Delightful Version
+- Added Geolosys
+- Added Rain Farming
+- Removed Spirit
+- Added Village Nullifier
+- Removed Mushroom Villagers
+- Removed Guard Villagers
+- Removed More Villagers
+- Removed More Villager Trades
+- Removed Villagers Sell Animals
+- Removed Village Employment
+- Removed Villager Names
+- Removed Villager Tools
+- Added Eroding Stone
+- Removed ElementalCraft
+- Updating Version
+- Update Shaders
+- Remove Rusted Recipes
+- Add Info for Plant Fiber and Flint Shard
+- Remove Delightful Knifes
+- Disabled Onion for Wildplants
+- Disabled IE Compat for Wildplants
+- Config Update
+- Update Beneath The Trees Datapack
+- Plant Fiber Drops
+- Remove Hemp Drops
+- New Tags
+- Plant Fiber & Straw Drops
+- New Sharp Stick Recipe
+- New Plant Fiber Recipe
+- New Cloth Recipe
+- New Bone Shard Recipe
+- New Campfire Recipe
+- Flint Knife Recipe
+- Config Update
+- Added Beginning Quests
+- Config Update
+- Bones now spawn in the overworld
+- Config Update
+- Disabled NoTreePunching Loose Rock Generation 
+- Config Update
+- Coremods
+- Added NoHostilesAroundCampfire
+- Added Nomadic Tents
+- Added Out Of Sight
+- Added Overweight Farming
+- Added Log Begone
+- Added Little Geode
+- Added Hefty Crops
+- Added GameStages
