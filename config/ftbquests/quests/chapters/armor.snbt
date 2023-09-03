@@ -1,0 +1,168 @@
+{
+	id: "79051899F9DA7406"
+	group: "5A9B3AB2F5E202EB"
+	order_index: 0
+	filename: "armor"
+	title: "Armor"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			x: 0.0d
+			y: 0.0d
+			id: "3AD80103A8ED6C62"
+			tasks: [{
+				id: "6B23E7238C2B6DB5"
+				type: "item"
+				item: "rusted:cloth"
+			}]
+		}
+		{
+			x: -1.0d
+			y: 0.0d
+			dependencies: ["3AD80103A8ED6C62"]
+			id: "5E42558854FEFACA"
+			tasks: [{
+				id: "538C0F9168EB6276"
+				type: "item"
+				item: {
+					id: "rusted:burlap_armor_helmet"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -0.5d
+			y: 1.0d
+			dependencies: ["3AD80103A8ED6C62"]
+			id: "5C00A225598BC93D"
+			tasks: [{
+				id: "001F070DD30F555F"
+				type: "item"
+				item: {
+					id: "rusted:burlap_armor_chestplate"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: 0.5d
+			y: 1.0d
+			dependencies: ["3AD80103A8ED6C62"]
+			id: "7E6B564F52BF3998"
+			tasks: [{
+				id: "3D26C1EBBD90F861"
+				type: "item"
+				item: {
+					id: "rusted:burlap_armor_leggings"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: 1.0d
+			y: 0.0d
+			dependencies: ["3AD80103A8ED6C62"]
+			id: "7FD46448D4FBC775"
+			tasks: [{
+				id: "76B18AAA2DEA05C3"
+				type: "item"
+				item: {
+					id: "rusted:burlap_armor_boots"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: 3.0d
+			y: 0.0d
+			dependencies: ["25D6832B5AA52176"]
+			id: "3B0F3C3B2CC1311F"
+			tasks: [{
+				id: "569C41E00C7FDDD9"
+				type: "item"
+				item: {
+					id: "toughasnails:leaf_helmet"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: 3.5d
+			y: 1.0d
+			dependencies: ["25D6832B5AA52176"]
+			id: "7EC10C7166F5BD3F"
+			tasks: [{
+				id: "04D594ABE7A07F9C"
+				type: "item"
+				item: {
+					id: "toughasnails:leaf_chestplate"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: 4.5d
+			y: 1.0d
+			dependencies: ["25D6832B5AA52176"]
+			id: "575827ECEED31EFD"
+			tasks: [{
+				id: "4AB6C8598F05E80C"
+				type: "item"
+				item: {
+					id: "toughasnails:leaf_leggings"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: 5.0d
+			y: 0.0d
+			dependencies: ["25D6832B5AA52176"]
+			id: "124D64802A3F86C2"
+			tasks: [{
+				id: "436C39E2397CC87F"
+				type: "item"
+				item: {
+					id: "toughasnails:leaf_boots"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: 4.0d
+			y: 0.0d
+			id: "25D6832B5AA52176"
+			tasks: [{
+				id: "46C48C2FF70D90FE"
+				type: "item"
+				item: "rusted:hempleaf"
+			}]
+		}
+	]
+	quest_links: [ ]
+}

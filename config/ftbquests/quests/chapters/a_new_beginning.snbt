@@ -1,0 +1,171 @@
+{
+	id: "20644BEC66296A75"
+	group: "6D75805C8EC831C7"
+	order_index: 0
+	filename: "a_new_beginning"
+	title: "A New Beginning"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			x: 1.0d
+			y: 0.0d
+			dependencies: ["17C171256C5B83B2"]
+			id: "31D9D89B0EF1EAD9"
+			tasks: [{
+				id: "0F2769E637161C7F"
+				type: "item"
+				item: {
+					id: "rusted:sharpstick"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: 0.0d
+			y: 0.5d
+			description: ["Can be obtained by cutting grass"]
+			dependencies: ["17C171256C5B83B2"]
+			id: "1A3B35676DAEBB2D"
+			tasks: [{
+				id: "0FC446DDB4CFCB79"
+				type: "item"
+				item: "notreepunching:plant_fiber"
+			}]
+		}
+		{
+			x: 0.0d
+			y: -1.5d
+			description: ["Can be obtained by hitting a hard surface"]
+			dependencies: ["5777E50759E10ED0"]
+			id: "5BB103CE33347EB0"
+			tasks: [{
+				id: "227F493F2760D4E1"
+				type: "item"
+				item: "notreepunching:flint_shard"
+			}]
+		}
+		{
+			x: 0.0d
+			y: -2.5d
+			description: ["Can be obtained by collecting gravel"]
+			id: "5777E50759E10ED0"
+			tasks: [{
+				id: "4482ACB9FBE26FD9"
+				type: "item"
+				item: "minecraft:flint"
+			}]
+		}
+		{
+			x: 0.0d
+			y: -0.5d
+			dependencies: ["5BB103CE33347EB0"]
+			id: "17C171256C5B83B2"
+			tasks: [{
+				id: "7F4874EA430A7CFF"
+				type: "item"
+				item: {
+					id: "farmersdelight:flint_knife"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: 1.0d
+			y: -1.0d
+			dependencies: ["17C171256C5B83B2"]
+			id: "5A3E121F1286F7D3"
+			tasks: [{
+				id: "4880FC842F1E7B16"
+				type: "item"
+				item: "rusted:boneshard"
+			}]
+		}
+		{
+			x: 0.0d
+			y: 1.5d
+			dependencies: ["1A3B35676DAEBB2D"]
+			id: "6FBFDF1793C4E012"
+			tasks: [{
+				id: "3BF83A7766C5EEDC"
+				type: "item"
+				item: "notreepunching:plant_string"
+			}]
+		}
+		{
+			title: "Loose Rocks"
+			x: -1.0d
+			y: 2.0d
+			id: "29A1A9A8103BF8F3"
+			tasks: [{
+				id: "39518C16C50D5A1B"
+				type: "item"
+				title: "Any #notreepunching:loose_rocks"
+				item: {
+					id: "itemfilters:tag"
+					Count: 1b
+					tag: {
+						value: "notreepunching:loose_rocks"
+					}
+				}
+			}]
+		}
+		{
+			x: 0.0d
+			y: 2.5d
+			description: [
+				"The campfire is a safe place for you."
+				"- Mobs don't spawn around a campfire"
+				"- The campfire stays lit for half a day"
+				"- Use burnable materials to keep the campfire on"
+			]
+			dependencies: [
+				"3AD80103A8ED6C62"
+				"29A1A9A8103BF8F3"
+				"2F5BF24EAECDD205"
+			]
+			id: "1DD6524FD66B6454"
+			tasks: [{
+				id: "762A8BA753C24C5F"
+				type: "item"
+				item: "minecraft:campfire"
+			}]
+		}
+		{
+			title: "Sticks & Twigs"
+			x: 1.0d
+			y: 2.0d
+			id: "2F5BF24EAECDD205"
+			tasks: [{
+				id: "5ED5B31884E6B305"
+				type: "item"
+				item: "minecraft:stick"
+			}]
+		}
+		{
+			x: 0.0d
+			y: 3.5d
+			description: ["Used to light the campfire"]
+			dependencies: ["1DD6524FD66B6454"]
+			id: "1645A147E516FE12"
+			tasks: [{
+				id: "2B8484D63B8EF80E"
+				type: "item"
+				item: {
+					id: "notreepunching:fire_starter"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+	]
+	quest_links: [ ]
+}

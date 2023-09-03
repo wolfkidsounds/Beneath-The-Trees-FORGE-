@@ -1,0 +1,84 @@
+{
+	id: "7AF85C01B9CEBC7D"
+	group: "5A9B3AB2F5E202EB"
+	order_index: 1
+	filename: "weapons"
+	title: "Weapons"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			x: -0.5d
+			y: 0.0d
+			dependencies: ["14F39F92496B930C"]
+			id: "66829401276DFED2"
+			tasks: [{
+				id: "5451954BECDCD36D"
+				type: "item"
+				item: {
+					id: "rusted:bonedagger"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: 0.0d
+			y: -1.0d
+			dependencies: ["17C171256C5B83B2"]
+			id: "14F39F92496B930C"
+			tasks: [{
+				id: "3F8A7DF040428B3C"
+				type: "item"
+				item: "minecraft:bone"
+			}]
+		}
+		{
+			x: 0.5d
+			y: 0.0d
+			dependencies: ["14F39F92496B930C"]
+			id: "68D59BA973DCA064"
+			tasks: [{
+				id: "51D8008C0B71586E"
+				type: "item"
+				item: {
+					id: "rusted:bonehatchet"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: 2.5d
+			y: 0.0d
+			dependencies: ["08A8AA4DCAA95572"]
+			id: "168CEF4224E3464F"
+			tasks: [{
+				id: "604222BE44079E8E"
+				type: "item"
+				item: {
+					id: "rusted:sharpstick"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: 2.5d
+			y: -1.0d
+			id: "08A8AA4DCAA95572"
+			tasks: [{
+				id: "543C4567730B2A8B"
+				type: "item"
+				item: "minecraft:stick"
+			}]
+		}
+	]
+	quest_links: [ ]
+}
