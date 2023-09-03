@@ -2,7 +2,7 @@
 [worldgen]
 
     # Enables loose rock world gen added automatically to biomes.
-    enableLooseRocksWorldGen = true
+    enableLooseRocksWorldGen = false
 
 
 [blockHarvesting]
@@ -41,7 +41,7 @@
     fireStarterCanMakeCampfire = true
 
     # If the fire starter can be used to make a soul campfire (with one '#notreepunching:fire_starter_logs', three '#notreepunching:fire_starter_kindling', and one '#notreepunching:fire_starter_soul_fire_catalyst'
-    fireStarterCanMakeSoulCampfire = true
+    fireStarterCanMakeSoulCampfire = false
 
     # If the large ceramic vessel block keeps it's contents when broken (as opposed to dropping them on the ground
     largeVesselKeepsContentsWhenBroken = true
