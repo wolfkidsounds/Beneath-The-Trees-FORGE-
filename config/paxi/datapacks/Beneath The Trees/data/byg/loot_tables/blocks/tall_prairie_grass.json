@@ -1,0 +1,42 @@
+{
+    "type": "minecraft:block",
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "notreepunching:plant_fiber",
+            "conditions": [
+              {
+                "condition": "minecraft:random_chance",
+                "chance": 0.1
+              },
+              {
+                "condition": "minecraft:match_tool",
+                "predicate": {
+                  "tag": "forge:tools/knives"
+                }
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "farmersdelight:straw",
+            "conditions": [
+              {
+                "condition": "minecraft:random_chance",
+                "chance": 0.1
+              },
+              {
+                "condition": "minecraft:match_tool",
+                "predicate": {
+                  "tag": "forge:tools/knives"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
