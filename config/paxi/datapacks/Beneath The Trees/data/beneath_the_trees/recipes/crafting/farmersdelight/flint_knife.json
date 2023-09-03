@@ -1,23 +1,21 @@
 {
-    "type": "minecraft:crafting_shaped",
+  "type": "minecraft:crafting_shaped",
 
-    "pattern": [
-      "F",
-      "S"
-    ],
+  "pattern": [
+    "m",
+    "s"
+  ],
 
-    "key": {
-      "F": {
-        "item": "notreepunching:flint_shard"
-      },
-
-      "S": {
-        "item": "minecraft:stick"
-      }
+  "key": {
+    "m": {
+      "item": "notreepunching:flint_shard"
     },
-
-    "result": {
-      "item": "dustrial_decor:large_chain",
-      "count": 1
+    "s": {
+      "item": "minecraft:stick"
     }
+  },
+
+  "result": {
+    "item": "farmersdelight:flint_knife"
+  }
 }
