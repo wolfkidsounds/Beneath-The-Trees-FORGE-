@@ -1,0 +1,44 @@
+
+["Geode Drop Chance"]
+	#the percentage chance of getting a geode for each broken block : need an integer number from 0 to 100
+	GeodeDropChanceFromStone = 5.0
+	GeodeDropChanceFromDeepslate = 5.0
+	GeodeDropChanceFromNetherrack = 5.0
+	GeodeDropChanceFromEndstone = 5.0
+
+["Geode Drop"]
+	#whether a geode drop should be enabled
+	MineralGeodeDropEnabled = true
+	OceanicGeodeDropEnabled = true
+	OrganicGeodeDropEnabled = true
+	FireGeodeDropEnabled = true
+	VoidGeodeDropEnabled = true
+	EggGeodeDropEnabled = true
+
+["Geode Drop From Block"]
+	#whether a geode should drop from a block
+	MineralGeodeDropFromStone = true
+	MineralGeodeDropFromDeepslate = true
+	MineralGeodeDropFromNetherrack = true
+	MineralGeodeDropFromEndstone = true
+	OceanicGeodeDropFromStone = true
+	OceanicGeodeDropFromDeepslate = true
+	OceanicGeodeDropFromNetherrack = true
+	OceanicGeodeDropFromEndstone = true
+	OrganicGeodeDropFromStone = true
+	OrganicGeodeDropFromDeepslate = true
+	OrganicGeodeDropFromNetherrack = true
+	OrganicGeodeDropFromEndstone = true
+	FireGeodeDropFromStone = true
+	FireGeodeDropFromDeepslate = true
+	FireGeodeDropFromNetherrack = true
+	FireGeodeDropFromEndstone = true
+	VoidGeodeDropFromStone = true
+	VoidGeodeDropFromDeepslate = true
+	VoidGeodeDropFromNetherrack = true
+	VoidGeodeDropFromEndstone = true
+	EggGeodeDropFromStone = true
+	EggGeodeDropFromDeepslate = true
+	EggGeodeDropFromNetherrack = true
+	EggGeodeDropFromEndstone = true
+
