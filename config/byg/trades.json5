@@ -158,6 +158,41 @@ to make editing this file much easier.
 			"4": [],
 			"5": []
 		},
+		"immersiveengineering:electrician": {
+			"1": [],
+			"2": [],
+			"3": [],
+			"4": [],
+			"5": []
+		},
+		"immersiveengineering:engineer": {
+			"1": [],
+			"2": [],
+			"3": [],
+			"4": [],
+			"5": []
+		},
+		"immersiveengineering:gunsmith": {
+			"1": [],
+			"2": [],
+			"3": [],
+			"4": [],
+			"5": []
+		},
+		"immersiveengineering:machinist": {
+			"1": [],
+			"2": [],
+			"3": [],
+			"4": [],
+			"5": []
+		},
+		"immersiveengineering:outfitter": {
+			"1": [],
+			"2": [],
+			"3": [],
+			"4": [],
+			"5": []
+		},
 		"minecraft:armorer": {
 			"1": [],
 			"2": [],
@@ -428,56 +463,7 @@ to make editing this file much easier.
 			"4": [],
 			"5": []
 		},
-		"morevillagers:enderian": {
-			"1": [],
-			"2": [],
-			"3": [],
-			"4": [],
-			"5": []
-		},
-		"morevillagers:engineer": {
-			"1": [],
-			"2": [],
-			"3": [],
-			"4": [],
-			"5": []
-		},
-		"morevillagers:florist": {
-			"1": [],
-			"2": [],
-			"3": [],
-			"4": [],
-			"5": []
-		},
-		"morevillagers:hunter": {
-			"1": [],
-			"2": [],
-			"3": [],
-			"4": [],
-			"5": []
-		},
-		"morevillagers:miner": {
-			"1": [],
-			"2": [],
-			"3": [],
-			"4": [],
-			"5": []
-		},
-		"morevillagers:netherian": {
-			"1": [],
-			"2": [],
-			"3": [],
-			"4": [],
-			"5": []
-		},
-		"morevillagers:oceanographer": {
-			"1": [],
-			"2": [],
-			"3": [],
-			"4": [],
-			"5": []
-		},
-		"morevillagers:woodworker": {
+		"pneumaticcraft:mechanic": {
 			"1": [],
 			"2": [],
 			"3": [],
