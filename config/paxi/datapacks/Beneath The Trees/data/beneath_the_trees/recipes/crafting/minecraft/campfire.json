@@ -1,0 +1,21 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":[
+        {
+            "tag": "forge:rods/wooden"
+        },
+        {
+            "tag": "notreepunching:loose_rocks"
+        },
+        {
+            "tag": "notreepunching:string"
+        }
+    ],
+	
+	"result": 
+    {
+        "item": "minecraft:campfire"
+    }
+	
+}
