@@ -9,7 +9,7 @@
 
 	[General.Compat]
 		Minecraft = true
-		Immersive_Engineering = true
+		Immersive_Engineering = false
 		Veggie_Way = false
 		Harvestcraft = true
 		EnhancedFarming = false
